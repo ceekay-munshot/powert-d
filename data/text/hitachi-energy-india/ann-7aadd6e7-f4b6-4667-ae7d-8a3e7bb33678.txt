@@ -1,0 +1,164 @@
+April 14, 2026
+The Secretary,
+Listing Department,
+BSE Limited
+1st Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Scrip Code: 543187
+
+The Manager,
+Listing Department,
+National Stock Exchange of India Limited,
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+Scrip Symbol: POWERINDIA
+
+Dear Sir/ Madam,
+Sub.: Press Release as per Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015
+We are sending herewith a copy of the Press Release titled “Hitachi and Adani switch on HVDC city center infeed for more
+than 20 million people in Mumbai” which is being issued by the Company today to the media for information of the Stock
+Exchanges.
+This is pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+You are requested to take the same on record.
+Thank you,
+Yours faithfully,
+For Hitachi Energy India Limited
+
+AMMATANDA
+CHINNAPPA
+POOVANNA
+
+Digitally signed by AMMATANDA
+CHINNAPPA POOVANNA
+Date: 2026.04.14 22:31:55 +05'30'
+
+Poovanna Ammatanda
+General Counsel and Company Secretary
+
+Encl.: as above
+
+Hitachi Energy India Limited
+Registered and Corporate Office:
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru - 560 092
+E-mail: investors@hitachienergy.com
+Phone: 080 68473700
+CIN: L31904KA2019PLC121597
+hitachienergy.com/in
+
+News Release
+
+Hitachi and Adani switch on HVDC city center infeed for more than 20 million
+people in Mumbai
+Delivering a 50 percent boost in electricity supplied to the city from outside, the new HVDC link
+strengthens grid resilience, accelerates renewable integration, and sets a global benchmark for
+urban transmission
+
+
+
+One of the world’s largest urban HVDC city infeeds delivers renewable energy and drives
+forward the city’s Climate Action Plan and decarbonization ambitions
+A space-saving converter station and 50 km of underground HVDC cables overcome
+Mumbai’s urban constraints
+
+Valves hall at the converter station in Mumbai
+
+Bengaluru, April 14, 2026 - Hitachi Energy, a global technology leader in electriﬁcation, and
+Adani Energy Solutions Ltd. (AESL), India’s largest private sector power transmission and
+distribution company, have successfully commissioned one of the world’s largest high-voltage
+direct current (HVDC) city center infeed in Mumbai, increasing power supply coming from
+outside the city by 50 percent.
+Injecting up to 1,000 megawatts (MW) of reliable, secure, and clean power directly into one of
+the world’s most densely populated megacities, the new HVDC link delivers a step-change in
+Mumbai’s energy resilience. The Kudus-Aarey connection signiﬁcantly strengthens the city’s
+transmission infrastructure, supporting the daily needs of more than 20 million people.
+One of the world's largest urban HVDC infeeds, delivering 1,000 MW of renewable energy
+Powered by Hitachi Energy’s Voltage Source Converter (VSC) HVDC technology, the link
+delivers precise, fast control of power ﬂow, improved voltage stability, and enhanced grid
+reliability in a city where space is scarce. The Aarey converter station upgrade marks the city’s
+most signiﬁcant grid modernization in nearly 25 years, boosting the grid capacity from 250 to
+1,000 megawatts (MW) and directly reinforcing the city’s energy stability and resilience thus
+ensuring energy security.
+1/3
+
+“The HVDC city center infeed is a critical enabler of the Mumbai Climate Action Plan,
+strengthening the city’s ability to integrate renewable energy and build a more resilient, futureready grid,” said Kandarp Patel, CEO, Adani Energy Solutions Ltd. “By expanding access to
+clean power, this project supports the city’s decarbonization goals and ensures that homes,
+businesses, transport systems, and digital infrastructure have the reliable, low-carbon electricity
+they need to grow.”
+Urban innovation: overcoming Mumbai's constraints
+Delivering this milestone project in the heart of a busy megacity demanded exceptional
+execution capability. Building a major transmission interface within tight urban constraints
+required precise coordination of construction and logistics, a challenge intensiﬁed by Mumbai’s
+monsoon seasons. The converter station was engineered with an extremely compact footprint
+and supplied through a conﬁguration combining overhead lines and underground HVDC cables,
+which freed approximately 2 square kilometers of urban territory - equivalent to approximately
+280 football ﬁelds1 or more than 100 cricket ﬁelds2.
+“The Mumbai HVDC city center infeed demonstrates Hitachi Energy’s capability in delivering
+mission-critical, technically complex, and space-constrained transmission infrastructure for some
+of the world’s largest population centers,” said Niklas Persson, CEO, Grid Integration Business
+Unit, Hitachi Energy. “With our pioneering HVDC technology at its core, this project feeds
+reliable, secure electricity into Mumbai – powering its fast-growing economy, digital
+infrastructure, rising data center demand, industries, and daily lives.”
+“The commissioning of the Mumbai HVDC city infeed is a moment of immense pride for Hitachi
+Energy,” said N Venu, Managing Director and CEO, Hitachi Energy India Limited. “This project
+pushes the boundaries of what transmission technology can achieve in one of the world’s most
+complex urban environments. Our teams in India have delivered a breakthrough that brings
+cleaner, more reliable power to millions of people, showcasing how innovation made in India, is
+shaping the nation’s energy future.”
+The project is supplied through the Kudus grid connection with power imported from outside
+the city, including renewable energy from generation regions of Maharashtra and renewablerich nodes across India’s national grid. With its compact footprint, ability to transmit power
+through underground cables in constrained corridors, and inherent advantages in managing
+power congestion, pollution, acoustical and electrical noise, power quality, and control, the incity HVDC application provides a scalable model for other Indian cities and global megacities
+facing similar multiplying power demand as well as land permitting and grid integration
+challenges.
+Hitachi Energy's HVDC legacy in India
+Hitachi Energy has an impressive HVDC track record in India, where it introduced the HVDC
+technology with the Rihand-Dadri HVDC transmission system in 1990. The company is currently
+executing several of India’s most transformative renewable energy transmission corridors, such
+as the 950-km, 6,000 MW HVDC connection from the renewable energy zone in
+Bhadla/Rajasthan to Fatehpur/UP, the 1,200-km, 6,000 MW link from Khavda to Nagpur. To
+support the execution of these and other projects worldwide, in 2023, Hitachi Energy
+Standard football pitch size area is 7,140 m². Source: FIFA (Fédération Internationale de Football Association International Federation of Association Football).
+2
+Cricket ﬁelds vary in size, but a common international diameter is ~137 metres and area ≈ 14,738 m². Source:
+International Cricket Council (ICC)
+1
+
+2/3
+
+inaugurated an advanced power electronics factory in Chennai to enhance the local production
+capacity of pioneering HVDC and power quality solutions. Together, these developments
+rea rm Hitachi Energy’s role as a long-term technology partner in building India’s grid of the
+future.
+About Hitachi Energy
+Hitachi Energy is a global technology leader in electrification, powering a sustainable energy future with innovative
+power grid technologies with digital at the core. Over three billion people depend on our technologies to power their
+daily lives. With over a century in pioneering mission-critical technologies like high-voltage, transformers,
+automation, and power electronics, we are addressing the most urgent energy challenge of our time – balancing
+soaring electricity demand, while decarbonizing the power system. With an unparalleled installed base in over 140
+countries, we co-create and build long-term partnerships across the utility, industry, transportation, data centers, and
+infrastructure sectors. Headquartered in Switzerland, we employ over 50,000 people in 60 countries and generate
+revenues of around $16 billion USD.
+In India, Hitachi Energy operates under the legal entity name Hitachi Energy India Limited and is listed on the
+National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) as POWERINDIA, Scrip code 543187.
+Https://www.hitachienergy.com
+https://www.linkedin.com/company/hitachienergy
+https://x.com/HitachiEnergy
+About Hitachi, Ltd.
+Through its Social Innovation Business (SIB) that brings together IT, OT (Operational Technology) and products,
+Hitachi contributes to a harmonized society where the environment, wellbeing, and economic growth are in balance.
+Hitachi operates globally in four sectors – Digital Systems & Services, Energy, Mobility, and Connective Industries –
+and the Strategic SIB Business Unit for new growth businesses. With Lumada at its core, Hitachi generates value from
+integrating data, technology and domain knowledge to solve customer and social challenges. Revenues for FY2024
+(ended March 31, 2025) totaled 9,783.3 billion yen, with 618 consolidated subsidiaries and approximately 280,000
+employees worldwide. Visit us at www.hitachi.com.
+
+Media contact
+Seema Siddiqui | Seema.siddiqui@hitachienergy.com
+
+3/3
+

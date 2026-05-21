@@ -1,6 +1,6 @@
 {
   "slug": "hitachi-energy-india",
-  "updatedAt": "2026-05-21T07:29:52.849Z",
+  "updatedAt": "2026-05-21T08:54:10.589Z",
   "documents": [
     {
       "id": "ar-2025",
@@ -14,10 +14,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf"
       ],
       "textFile": "ar-2025.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf",
-      "pdfBytes": 6460854,
-      "textChars": 860205
+      "status": "cached",
+      "textChars": 864250
     },
     {
       "id": "ar-2024",
@@ -31,10 +29,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/57233164-58dc-48e1-8c4c-392989826c08.pdf"
       ],
       "textFile": "ar-2024.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/57233164-58dc-48e1-8c4c-392989826c08.pdf",
-      "pdfBytes": 6215240,
-      "textChars": 871630
+      "status": "cached",
+      "textChars": 875090
     },
     {
       "id": "ar-2023",
@@ -48,10 +44,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecce020a-4698-4a72-a2c6-e92944371028.pdf"
       ],
       "textFile": "ar-2023.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecce020a-4698-4a72-a2c6-e92944371028.pdf",
-      "pdfBytes": 9948531,
-      "textChars": 747690
+      "status": "cached",
+      "textChars": 751466
     },
     {
       "id": "ar-2022",
@@ -64,10 +58,8 @@
         "https://www.bseindia.com/bseplus/AnnualReport/543187/74647543187.pdf"
       ],
       "textFile": "ar-2022.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/74647543187.pdf",
-      "pdfBytes": 4611116,
-      "textChars": 738205
+      "status": "cached",
+      "textChars": 741688
     },
     {
       "id": "ar-2020",
@@ -80,10 +72,8 @@
         "https://www.bseindia.com/bseplus/AnnualReport/543187/68434543187.pdf"
       ],
       "textFile": "ar-2020.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/68434543187.pdf",
-      "pdfBytes": 7085847,
-      "textChars": 598046
+      "status": "cached",
+      "textChars": 600474
     },
     {
       "id": "ar-2019",
@@ -96,10 +86,8 @@
         "https://www.bseindia.com/bseplus/AnnualReport/543187/5431871219.pdf"
       ],
       "textFile": "ar-2019.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/5431871219.pdf",
-      "pdfBytes": 13748529,
-      "textChars": 439627
+      "status": "cached",
+      "textChars": 441537
     },
     {
       "id": "ann-d33f928a-aa49-4762-a726-fdcea78f6655",
@@ -109,13 +97,12 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5e22198-ba7f-4433-944b-69a629215b66.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5e22198-ba7f-4433-944b-69a629215b66.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5e22198-ba7f-4433-944b-69a629215b66.pdf"
       ],
       "textFile": "ann-d33f928a-aa49-4762-a726-fdcea78f6655.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5e22198-ba7f-4433-944b-69a629215b66.pdf",
-      "pdfBytes": 154694,
-      "textChars": 2973
+      "status": "cached",
+      "textChars": 2991
     },
     {
       "id": "ann-2fcca42f-a87a-413a-9b87-150b5e0d8da7",
@@ -125,13 +112,12 @@
       "category": "Board Meeting",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf"
       ],
       "textFile": "ann-2fcca42f-a87a-413a-9b87-150b5e0d8da7.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf",
-      "pdfBytes": 358667,
-      "textChars": 2940
+      "status": "cached",
+      "textChars": 2958
     },
     {
       "id": "ann-aed9048b-a16b-4870-93bd-35409286f12e",
@@ -141,13 +127,12 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8799f416-cdd0-49b4-a841-115a06c0187a.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8799f416-cdd0-49b4-a841-115a06c0187a.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8799f416-cdd0-49b4-a841-115a06c0187a.pdf"
       ],
       "textFile": "ann-aed9048b-a16b-4870-93bd-35409286f12e.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8799f416-cdd0-49b4-a841-115a06c0187a.pdf",
-      "pdfBytes": 450674,
-      "textChars": 1620
+      "status": "cached",
+      "textChars": 1634
     },
     {
       "id": "ann-a57b2da9-a3b9-4f27-9e19-534d6dbda09c",
@@ -157,13 +142,12 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/965a365e-3090-4aad-b5c4-7712f261ce42.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/965a365e-3090-4aad-b5c4-7712f261ce42.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/965a365e-3090-4aad-b5c4-7712f261ce42.pdf"
       ],
       "textFile": "ann-a57b2da9-a3b9-4f27-9e19-534d6dbda09c.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/965a365e-3090-4aad-b5c4-7712f261ce42.pdf",
-      "pdfBytes": 597818,
-      "textChars": 26905
+      "status": "cached",
+      "textChars": 26979
     },
     {
       "id": "ann-cff5b4c8-2dc8-451b-9c1d-c928409fcc1f",
@@ -173,13 +157,12 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf"
       ],
       "textFile": "ann-cff5b4c8-2dc8-451b-9c1d-c928409fcc1f.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf",
-      "pdfBytes": 494433,
-      "textChars": 4012
+      "status": "cached",
+      "textChars": 4016
     },
     {
       "id": "ann-43f1179d-e874-4c3b-8e72-2cda8a865ab5",
@@ -189,11 +172,14 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bde59925-c1ac-4320-ba8a-5880e77ee12f.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bde59925-c1ac-4320-ba8a-5880e77ee12f.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bde59925-c1ac-4320-ba8a-5880e77ee12f.pdf"
       ],
       "textFile": "ann-43f1179d-e874-4c3b-8e72-2cda8a865ab5.txt",
-      "status": "failed",
-      "error": "response was not a PDF"
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bde59925-c1ac-4320-ba8a-5880e77ee12f.pdf",
+      "pdfBytes": 1248898,
+      "textChars": 4026
     },
     {
       "id": "ann-7aadd6e7-f4b6-4667-ae7d-8a3e7bb33678",
@@ -203,11 +189,14 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5323fe42-0a56-4f5f-8929-5035e6b72e1e.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5323fe42-0a56-4f5f-8929-5035e6b72e1e.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5323fe42-0a56-4f5f-8929-5035e6b72e1e.pdf"
       ],
       "textFile": "ann-7aadd6e7-f4b6-4667-ae7d-8a3e7bb33678.txt",
-      "status": "failed",
-      "error": "response was not a PDF"
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5323fe42-0a56-4f5f-8929-5035e6b72e1e.pdf",
+      "pdfBytes": 817653,
+      "textChars": 9374
     },
     {
       "id": "ann-98390aae-3084-4787-a31e-cb9eb3193e65",
@@ -217,11 +206,14 @@
       "category": "Insider Trading / SAST",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e10c9f86-c24c-4b47-a8da-af8037178b9e.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e10c9f86-c24c-4b47-a8da-af8037178b9e.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10c9f86-c24c-4b47-a8da-af8037178b9e.pdf"
       ],
       "textFile": "ann-98390aae-3084-4787-a31e-cb9eb3193e65.txt",
-      "status": "failed",
-      "error": "response was not a PDF"
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10c9f86-c24c-4b47-a8da-af8037178b9e.pdf",
+      "pdfBytes": 3424632,
+      "textChars": 1690
     },
     {
       "id": "ann-b02e0c47-b809-4d76-a9a4-22c73405530e",
@@ -231,11 +223,14 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8eb8b05f-5582-4706-bac8-bd6ef45d2d81.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8eb8b05f-5582-4706-bac8-bd6ef45d2d81.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8eb8b05f-5582-4706-bac8-bd6ef45d2d81.pdf"
       ],
       "textFile": "ann-b02e0c47-b809-4d76-a9a4-22c73405530e.txt",
-      "status": "failed",
-      "error": "response was not a PDF"
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8eb8b05f-5582-4706-bac8-bd6ef45d2d81.pdf",
+      "pdfBytes": 3328409,
+      "textChars": 2377
     },
     {
       "id": "ann-faf69af2-bbb8-48a1-9b89-fe0a20f45c70",
@@ -245,11 +240,14 @@
       "category": "Company Update",
       "urlConfidence": "confirmed",
       "candidateUrls": [
-        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf"
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf"
       ],
       "textFile": "ann-faf69af2-bbb8-48a1-9b89-fe0a20f45c70.txt",
-      "status": "failed",
-      "error": "HTTP 404"
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf",
+      "pdfBytes": 131207,
+      "textChars": 1987
     }
   ]
 }
