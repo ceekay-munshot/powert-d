@@ -1,0 +1,48 @@
+name: BSE company scrape
+
+on:
+  workflow_dispatch:
+    inputs:
+      scrip:
+        description: '6-digit BSE scrip code'
+        required: true
+        default: '541450'
+      slug:
+        description: 'Company slug (used in data/bse-<slug>.json)'
+        required: true
+        default: 'adani-green'
+  schedule:
+    - cron: '0 1,14 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scrape BSE data
+        env:
+          SCRIP: ${{ inputs.scrip || '541450' }}
+          SLUG: ${{ inputs.slug || 'adani-green' }}
+        run: node scripts/scrape-bse-company.mjs "$SCRIP" "$SLUG"
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bse-*.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "data: refresh BSE scrape ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
