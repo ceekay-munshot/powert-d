@@ -1,0 +1,18 @@
+{
+  "description": "Companies tracked by the Power T&D dashboard. Drives the BSE scraper (scrape-all.mjs) and the analysis pipeline.",
+  "updatedAt": "2026-05-21",
+  "companies": [
+    {
+      "slug": "hitachi-energy-india",
+      "name": "Hitachi Energy India Ltd",
+      "formerName": "ABB Power Products and Systems India Ltd",
+      "bseScripCode": "543187",
+      "nseSymbol": "POWERINDIA",
+      "isin": "INE07Y701011",
+      "primaryBucket": "hvdc-facts-grid-stability-oem",
+      "secondaryBuckets": ["transformer-manufacturer"],
+      "website": "https://www.hitachienergy.com/in/en/",
+      "bsePage": "https://www.bseindia.com/stock-share-price/hitachi-energy-india-ltd/POWERINDIA/543187/"
+    }
+  ]
+}

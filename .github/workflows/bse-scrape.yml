@@ -2,15 +2,6 @@ name: BSE company scrape
 
 on:
   workflow_dispatch:
-    inputs:
-      scrip:
-        description: '6-digit BSE scrip code'
-        required: true
-        default: '541450'
-      slug:
-        description: 'Company slug (used in data/bse-<slug>.json)'
-        required: true
-        default: 'adani-green'
   schedule:
     - cron: '0 1,14 * * *'
 
@@ -29,11 +20,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Scrape BSE data
-        env:
-          SCRIP: ${{ inputs.scrip || '541450' }}
-          SLUG: ${{ inputs.slug || 'adani-green' }}
-        run: node scripts/scrape-bse-company.mjs "$SCRIP" "$SLUG"
+      - name: Scrape all registered companies
+        run: node scripts/scrape-all.mjs
 
       - name: Commit data if changed
         run: |

@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Power T&D company analysis",
+  "description": "Data contract for one company's analysis output. Every material number is a fact object carrying its own provenance (source, period, unit, basis). Mirrors the framework guardrails in framework/power-td-framework.md.",
+  "type": "object",
+  "required": ["schemaVersion", "company", "generatedAt", "classification", "scorecard"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "company": { "$ref": "#/$defs/company" },
+    "classification": { "$ref": "#/$defs/classification" },
+    "companyMapping": {
+      "type": "array",
+      "description": "Mandatory company mapping table (guardrail 5).",
+      "items": { "$ref": "#/$defs/mappingRow" }
+    },
+    "sections": { "$ref": "#/$defs/sections" },
+    "scorecard": {
+      "type": "array",
+      "description": "10-factor scorecard (guardrail 10). One row per factor.",
+      "items": { "$ref": "#/$defs/scorecardRow" }
+    },
+    "managementQuestions": {
+      "type": "array",
+      "description": "10-15 sharp, bucket-specific diligence questions (guardrail 11).",
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/source" }
+    }
+  },
+  "$defs": {
+    "sourceType": {
+      "type": "string",
+      "description": "Source tag applied to every material statement (guardrail 3).",
+      "enum": [
+        "Fact — Company",
+        "Fact — Project File",
+        "Fact — Government / Regulatory",
+        "Estimate — Broker",
+        "Inference",
+        "Unknown / Not disclosed"
+      ]
+    },
+    "bucket": {
+      "type": "string",
+      "description": "The eight Power T&D value-chain buckets (guardrail 4).",
+      "enum": [
+        "transmission-asset-owner",
+        "distribution-discom",
+        "transformer-manufacturer",
+        "hvdc-facts-grid-stability-oem",
+        "transmission-epc",
+        "towers-conductors-cables",
+        "smart-meters-grid-automation",
+        "component-supplier"
+      ]
+    },
+    "fact": {
+      "type": "object",
+      "description": "A single provenance-tagged data point. Numbers are never stored without source, period and unit (guardrail 12).",
+      "required": ["label", "value", "sourceType"],
+      "properties": {
+        "label": { "type": "string" },
+        "value": { "type": ["string", "number", "boolean", "null"] },
+        "unit": { "type": "string", "description": "ckm, MVA, GVA, MW, GW, INR crore, MT, %, x, etc." },
+        "period": { "type": "string", "description": "FY26, Q3FY26, as-on date, etc." },
+        "basis": { "type": "string", "enum": ["actual", "estimate", "guidance", "assumption"] },
+        "sourceType": { "$ref": "#/$defs/sourceType" },
+        "sourceRef": { "type": "string", "description": "Document name + page, filing reference, or URL." },
+        "asOf": { "type": "string", "description": "Date the figure was published or observed." },
+        "note": { "type": "string" }
+      }
+    },
+    "company": {
+      "type": "object",
+      "required": ["slug", "name"],
+      "properties": {
+        "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "name": { "type": "string" },
+        "bseScripCode": { "type": "string", "pattern": "^[0-9]{6}$" },
+        "nseSymbol": { "type": "string" },
+        "isin": { "type": "string" }
+      }
+    },
+    "classification": {
+      "type": "object",
+      "description": "Section 1 of the output structure.",
+      "required": ["primaryBucket", "oneLiner"],
+      "properties": {
+        "primaryBucket": { "$ref": "#/$defs/bucket" },
+        "secondaryBuckets": { "type": "array", "items": { "$ref": "#/$defs/bucket" } },
+        "oneLiner": { "type": "string", "description": "\"Company X is primarily a ___ play, with secondary exposure to ___.\"" }
+      }
+    },
+    "mappingRow": {
+      "type": "object",
+      "required": ["item", "analysis"],
+      "properties": {
+        "item": {
+          "type": "string",
+          "enum": [
+            "Business segment",
+            "T&D bucket",
+            "Product / service",
+            "Customer type",
+            "Revenue / order book exposure",
+            "Margin profile",
+            "Key moat",
+            "Main risk"
+          ]
+        },
+        "analysis": { "type": "string" },
+        "facts": { "type": "array", "items": { "$ref": "#/$defs/fact" } }
+      }
+    },
+    "section": {
+      "type": "object",
+      "description": "Generic analysis section: prose summary plus its supporting provenance-tagged facts.",
+      "required": ["summary"],
+      "properties": {
+        "summary": { "type": "string" },
+        "points": { "type": "array", "items": { "type": "string" } },
+        "facts": { "type": "array", "items": { "$ref": "#/$defs/fact" } }
+      }
+    },
+    "sections": {
+      "type": "object",
+      "description": "Mandatory 13-section output structure (guardrail 9). Section 1 (classification), 11 (managementQuestions) and 13 (scorecard) sit at the top level; the prose sections live here.",
+      "properties": {
+        "valueChainMap": { "$ref": "#/$defs/section" },
+        "businessModel": { "$ref": "#/$defs/section" },
+        "sourceBackedFacts": { "$ref": "#/$defs/section" },
+        "segmentDeepDive": { "$ref": "#/$defs/section" },
+        "orderBookAndExecution": { "$ref": "#/$defs/section" },
+        "marginAndRoce": { "$ref": "#/$defs/section" },
+        "competitivePositioning": { "$ref": "#/$defs/section" },
+        "investmentThesis": { "$ref": "#/$defs/section" },
+        "investmentAntiThesis": { "$ref": "#/$defs/section" },
+        "valuation": { "$ref": "#/$defs/section" }
+      }
+    },
+    "scorecardRow": {
+      "type": "object",
+      "required": ["factor", "score", "evidence", "concern"],
+      "properties": {
+        "factor": {
+          "type": "string",
+          "enum": [
+            "TAM relevance",
+            "Value-chain quality",
+            "Approval / technology depth",
+            "Order book quality",
+            "Capacity readiness",
+            "Margin sustainability",
+            "Working capital / cash conversion",
+            "Competitive position",
+            "Balance sheet",
+            "Valuation comfort"
+          ]
+        },
+        "score": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "maximum": 5,
+          "description": "null when evidence is unavailable — do not score without evidence (guardrail 10)."
+        },
+        "evidence": { "type": "string" },
+        "concern": { "type": "string" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["title", "sourceType"],
+      "properties": {
+        "title": { "type": "string" },
+        "sourceType": { "$ref": "#/$defs/sourceType" },
+        "url": { "type": "string" },
+        "publishedOn": { "type": "string" }
+      }
+    }
+  }
+}

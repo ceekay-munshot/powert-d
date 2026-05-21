@@ -1,5 +1,5 @@
 // BSE company data scraper — node scripts/scrape-bse-company.mjs <6-digit-scripCode> <slug>
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const [, , scripArg, slugArg] = process.argv;
 
@@ -18,6 +18,7 @@ if (!/^[a-z0-9-]+$/i.test(slugArg)) {
 
 const scrip = scripArg;
 const slug = slugArg.toLowerCase();
+const outPath = `data/bse-${slug}.json`;
 
 // 90-day rolling window, formatted YYYYMMDD
 const ymd = (d) =>
@@ -94,10 +95,57 @@ function extractRows(payload) {
   return [];
 }
 
+// Previous snapshot, so the filing history accumulates beyond the 90-day window.
+async function loadPrevious(path) {
+  try {
+    return JSON.parse(await readFile(path, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
+function dedupeByKey(rows, keyOf) {
+  const map = new Map();
+  for (const row of rows) {
+    const key = keyOf(row);
+    if (key == null) continue;
+    map.set(key, row); // later (fresher) entries win
+  }
+  return [...map.values()];
+}
+
+// Keyed categories: merge fresh rows into history; on a failed fetch keep history, mark stale.
+function mergeCategory(current, previous, name, keyOf, sortKey) {
+  const prev = previous?.categories?.[name];
+  const cur = current.categories[name];
+  if (!prev || !Array.isArray(prev.rows) || prev.rows.length === 0) return;
+  if (cur.ok) {
+    const merged = dedupeByKey([...prev.rows, ...cur.rows], keyOf);
+    merged.sort((a, b) => String(b?.[sortKey] ?? '').localeCompare(String(a?.[sortKey] ?? '')));
+    cur.rows = merged;
+    cur.count = merged.length;
+  } else {
+    cur.rows = prev.rows;
+    cur.count = prev.rows.length;
+    cur.stale = true;
+  }
+}
+
+// Non-keyed categories: keep the last good rows only if this run's fetch failed.
+function carryForwardOnFailure(current, previous, name) {
+  const prev = previous?.categories?.[name];
+  const cur = current.categories[name];
+  if (cur.ok || !prev || !Array.isArray(prev.rows) || prev.rows.length === 0) return;
+  cur.rows = prev.rows;
+  cur.count = prev.rows.length;
+  cur.stale = true;
+}
+
 const output = {
   scripCode: scrip,
   slug,
   scrapedAt: now.toISOString(),
+  firstScrapedAt: now.toISOString(),
   window: { from, to },
   categories: {},
 };
@@ -122,35 +170,39 @@ for (const [name, { url, tag }] of Object.entries(endpoints)) {
   }
 }
 
-// pass 2: derived categories
-const announcements = output.categories.announcements;
-if (announcements.ok) {
-  const rows = announcements.rows.filter((row) =>
-    /result/i.test(String((row && row.CATEGORYNAME) || '')),
-  );
-  output.categories.results = {
-    ok: true,
-    url: null,
-    count: rows.length,
-    tag: 'derived',
-    error: null,
-    rows,
-  };
-  console.log(`[results] ok — ${rows.length} rows (derived)`);
-} else {
-  output.categories.results = {
-    ok: false,
-    url: null,
-    count: 0,
-    tag: 'derived',
-    error: 'announcements unavailable',
-    rows: [],
-  };
-  console.error('[results] failed — announcements unavailable');
+// merge with the previous snapshot so history accumulates across runs (fail-soft)
+try {
+  const previous = await loadPrevious(outPath);
+  if (previous) {
+    output.firstScrapedAt = previous.firstScrapedAt || previous.scrapedAt || output.firstScrapedAt;
+    mergeCategory(output, previous, 'announcements', (r) => r?.NEWSID, 'NEWS_DT');
+    mergeCategory(output, previous, 'annualReports', (r) => r?.year, 'year');
+    carryForwardOnFailure(output, previous, 'corpActions');
+    carryForwardOnFailure(output, previous, 'boardMeetings');
+  }
+} catch (err) {
+  console.error(`[merge] skipped — ${err && err.message ? err.message : err}`);
 }
 
+// pass 2: derive results from the (merged) announcements set
+const announcements = output.categories.announcements;
+const resultRows = announcements.rows.filter((row) =>
+  /result/i.test(String((row && row.CATEGORYNAME) || '')),
+);
+output.categories.results = {
+  ok: announcements.ok,
+  url: null,
+  count: resultRows.length,
+  tag: 'derived',
+  error: announcements.ok ? null : announcements.error || 'announcements unavailable',
+  rows: resultRows,
+};
+if (announcements.stale) output.categories.results.stale = true;
+console.log(
+  `[results] ${announcements.ok ? 'ok' : 'stale/failed'} — ${resultRows.length} rows (derived)`,
+);
+
 await mkdir('data', { recursive: true });
-const outPath = `data/bse-${slug}.json`;
 await writeFile(outPath, `${JSON.stringify(output, null, 2)}\n`);
 console.log(`Wrote ${outPath}`);
 
