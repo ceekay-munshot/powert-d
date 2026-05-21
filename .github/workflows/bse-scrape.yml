@@ -1,4 +1,4 @@
-name: BSE company scrape
+name: BSE scrape and documents
 
 on:
   workflow_dispatch:
@@ -20,17 +20,23 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install PDF tools
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
       - name: Scrape all registered companies
         run: node scripts/scrape-all.mjs
+
+      - name: Fetch and extract documents
+        run: node scripts/fetch-documents.mjs
 
       - name: Commit data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/bse-*.json
+          git add data/
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
-            git commit -m "data: refresh BSE scrape ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git commit -m "data: refresh BSE scrape + documents ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git push
           fi
