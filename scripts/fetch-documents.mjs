@@ -38,24 +38,30 @@ async function fetchWithRetry(url) {
   return res;
 }
 
+// BSE serves recent filings from AttachLive and archives older ones to AttachHis.
+function attachmentUrls(attachmentName) {
+  const name = String(attachmentName || '').replace(/^[\\/]+/, '').trim();
+  if (!name) return [];
+  return [
+    `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${name}`,
+    `https://www.bseindia.com/xml-data/corpfiling/AttachHis/${name}`,
+  ];
+}
+
 // Annual-report file names come in two shapes; build candidate download URLs for each.
 function annualReportUrls(scrip, fileName) {
   const clean = String(fileName || '').replace(/^[\\/]+/, '').trim();
-  if (!clean || !scrip) return [];
-  if (/^[0-9]+\.pdf$/i.test(clean)) {
+  if (!clean) return [];
+  if (/^[0-9]+\.pdf$/i.test(clean) && scrip) {
     return [`https://www.bseindia.com/bseplus/AnnualReport/${scrip}/${clean}`];
   }
-  const uuid = clean.replace(/(\.pdf)+$/i, '');
-  return [
-    `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${uuid}.pdf`,
-    `https://www.bseindia.com/xml-data/corpfiling/AttachHis/${uuid}.pdf`,
-  ];
+  return attachmentUrls(`${clean.replace(/(\.pdf)+$/i, '')}.pdf`);
 }
 
 function announcementDocs(scrapeData) {
   const rows = scrapeData?.categories?.announcements?.rows ?? [];
   return rows
-    .filter((r) => r && r.NEWSID && r.PDF_URL)
+    .filter((r) => r && r.NEWSID && r.ATTACHMENTNAME)
     .slice(0, MAX_ANNOUNCEMENTS)
     .map((r) => ({
       id: `ann-${r.NEWSID}`,
@@ -64,7 +70,7 @@ function announcementDocs(scrapeData) {
       date: r.NEWS_DT || r.DT_TM || null,
       category: r.CATEGORYNAME || null,
       urlConfidence: 'confirmed',
-      candidateUrls: [r.PDF_URL],
+      candidateUrls: attachmentUrls(r.ATTACHMENTNAME),
     }));
 }
 
