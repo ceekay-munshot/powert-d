@@ -1,0 +1,255 @@
+{
+  "slug": "hitachi-energy-india",
+  "updatedAt": "2026-05-21T07:29:52.849Z",
+  "documents": [
+    {
+      "id": "ar-2025",
+      "type": "annual-report",
+      "title": "Annual Report 2025",
+      "date": "2025-07-24T16:36:48.587",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf"
+      ],
+      "textFile": "ar-2025.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf",
+      "pdfBytes": 6460854,
+      "textChars": 860205
+    },
+    {
+      "id": "ar-2024",
+      "type": "annual-report",
+      "title": "Annual Report 2024",
+      "date": "2024-07-22T21:16:47.867",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/57233164-58dc-48e1-8c4c-392989826c08.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/57233164-58dc-48e1-8c4c-392989826c08.pdf"
+      ],
+      "textFile": "ar-2024.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/57233164-58dc-48e1-8c4c-392989826c08.pdf",
+      "pdfBytes": 6215240,
+      "textChars": 871630
+    },
+    {
+      "id": "ar-2023",
+      "type": "annual-report",
+      "title": "Annual Report 2023",
+      "date": "2023-07-19T23:03:25.28",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ecce020a-4698-4a72-a2c6-e92944371028.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecce020a-4698-4a72-a2c6-e92944371028.pdf"
+      ],
+      "textFile": "ar-2023.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecce020a-4698-4a72-a2c6-e92944371028.pdf",
+      "pdfBytes": 9948531,
+      "textChars": 747690
+    },
+    {
+      "id": "ar-2022",
+      "type": "annual-report",
+      "title": "Annual Report 2022",
+      "date": "2022-08-25T14:32:31",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/bseplus/AnnualReport/543187/74647543187.pdf"
+      ],
+      "textFile": "ar-2022.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/74647543187.pdf",
+      "pdfBytes": 4611116,
+      "textChars": 738205
+    },
+    {
+      "id": "ar-2020",
+      "type": "annual-report",
+      "title": "Annual Report 2020",
+      "date": "2021-05-03T13:03:46",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/bseplus/AnnualReport/543187/68434543187.pdf"
+      ],
+      "textFile": "ar-2020.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/68434543187.pdf",
+      "pdfBytes": 7085847,
+      "textChars": 598046
+    },
+    {
+      "id": "ar-2019",
+      "type": "annual-report",
+      "title": "Annual Report 2019",
+      "date": "2020-07-22T11:41:18",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/bseplus/AnnualReport/543187/5431871219.pdf"
+      ],
+      "textFile": "ar-2019.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/bseplus/AnnualReport/543187/5431871219.pdf",
+      "pdfBytes": 13748529,
+      "textChars": 439627
+    },
+    {
+      "id": "ann-d33f928a-aa49-4762-a726-fdcea78f6655",
+      "type": "announcement",
+      "title": "Pursuant to Regulation 30 of the SEBI Listing Regulations, we are also enclosing herewith the invitation for the conference call with Investors/Analysts to discuss the Company's financial and operational performance for the fourth quarter and financial year ended March 31, 2026, scheduled on Tuesday, May 26, 2026 at 12:00 to 13:00 hrs (IST).",
+      "date": "2026-05-15T14:30:37.437",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5e22198-ba7f-4433-944b-69a629215b66.pdf"
+      ],
+      "textFile": "ann-d33f928a-aa49-4762-a726-fdcea78f6655.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5e22198-ba7f-4433-944b-69a629215b66.pdf",
+      "pdfBytes": 154694,
+      "textChars": 2973
+    },
+    {
+      "id": "ann-2fcca42f-a87a-413a-9b87-150b5e0d8da7",
+      "type": "announcement",
+      "title": "Hitachi Energy India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/05/2026 ,inter alia, to consider and approve Please refer the enclosed file",
+      "date": "2026-05-15T11:13:43.273",
+      "category": "Board Meeting",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf"
+      ],
+      "textFile": "ann-2fcca42f-a87a-413a-9b87-150b5e0d8da7.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/510643a2-66e7-483d-8633-f4ae1402fd1e.pdf",
+      "pdfBytes": 358667,
+      "textChars": 2940
+    },
+    {
+      "id": "ann-aed9048b-a16b-4870-93bd-35409286f12e",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-05-15T10:52:28.063",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8799f416-cdd0-49b4-a841-115a06c0187a.pdf"
+      ],
+      "textFile": "ann-aed9048b-a16b-4870-93bd-35409286f12e.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8799f416-cdd0-49b4-a841-115a06c0187a.pdf",
+      "pdfBytes": 450674,
+      "textChars": 1620
+    },
+    {
+      "id": "ann-a57b2da9-a3b9-4f27-9e19-534d6dbda09c",
+      "type": "announcement",
+      "title": "Please refer the enclosed file.",
+      "date": "2026-05-13T19:22:56.723",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/965a365e-3090-4aad-b5c4-7712f261ce42.pdf"
+      ],
+      "textFile": "ann-a57b2da9-a3b9-4f27-9e19-534d6dbda09c.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/965a365e-3090-4aad-b5c4-7712f261ce42.pdf",
+      "pdfBytes": 597818,
+      "textChars": 26905
+    },
+    {
+      "id": "ann-cff5b4c8-2dc8-451b-9c1d-c928409fcc1f",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-05-13T19:15:59.63",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf"
+      ],
+      "textFile": "ann-cff5b4c8-2dc8-451b-9c1d-c928409fcc1f.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7cbb5c7e-d515-4d35-b6bc-e3c8cee2fa60.pdf",
+      "pdfBytes": 494433,
+      "textChars": 4012
+    },
+    {
+      "id": "ann-43f1179d-e874-4c3b-8e72-2cda8a865ab5",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-04-16T22:14:01.273",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bde59925-c1ac-4320-ba8a-5880e77ee12f.pdf"
+      ],
+      "textFile": "ann-43f1179d-e874-4c3b-8e72-2cda8a865ab5.txt",
+      "status": "failed",
+      "error": "response was not a PDF"
+    },
+    {
+      "id": "ann-7aadd6e7-f4b6-4667-ae7d-8a3e7bb33678",
+      "type": "announcement",
+      "title": "Please refer the attached document",
+      "date": "2026-04-14T23:08:09.893",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5323fe42-0a56-4f5f-8929-5035e6b72e1e.pdf"
+      ],
+      "textFile": "ann-7aadd6e7-f4b6-4667-ae7d-8a3e7bb33678.txt",
+      "status": "failed",
+      "error": "response was not a PDF"
+    },
+    {
+      "id": "ann-98390aae-3084-4787-a31e-cb9eb3193e65",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-03-13T16:54:33.443",
+      "category": "Insider Trading / SAST",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e10c9f86-c24c-4b47-a8da-af8037178b9e.pdf"
+      ],
+      "textFile": "ann-98390aae-3084-4787-a31e-cb9eb3193e65.txt",
+      "status": "failed",
+      "error": "response was not a PDF"
+    },
+    {
+      "id": "ann-b02e0c47-b809-4d76-a9a4-22c73405530e",
+      "type": "announcement",
+      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we\r\nwish to inform you that the Company is scheduling the Analysts/ Institutional investors Meeting on Friday, March 13, 2026. The details of the same are as follows:\r\n\r\n1. Group Meeting with several investors, and the mode of Meeting is Face to Face\r\n2. One-on-One Meeting with Jetha Investments, and the mode of Meeting is Virtual. \r\n\r\nKindly take the same on your records.\r\n",
+      "date": "2026-03-10T18:15:56.39",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8eb8b05f-5582-4706-bac8-bd6ef45d2d81.pdf"
+      ],
+      "textFile": "ann-b02e0c47-b809-4d76-a9a4-22c73405530e.txt",
+      "status": "failed",
+      "error": "response was not a PDF"
+    },
+    {
+      "id": "ann-faf69af2-bbb8-48a1-9b89-fe0a20f45c70",
+      "type": "announcement",
+      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we\r\nwish to inform you that the Company is scheduling the Analysts/ Institutional investors Meeting on Monday, March 02, 2026. The details of the same are as follows:\r\n\r\n1. One-on-One Meeting with ICICI Securities, and the mode of Meeting is Face to Face\r\n2. One-on-One Meeting with IDBI Capital Markets & Securities Ltd., and the mode of Meeting ....",
+      "date": "2026-02-25T20:31:07.133",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf"
+      ],
+      "textFile": "ann-faf69af2-bbb8-48a1-9b89-fe0a20f45c70.txt",
+      "status": "failed",
+      "error": "HTTP 404"
+    }
+  ]
+}

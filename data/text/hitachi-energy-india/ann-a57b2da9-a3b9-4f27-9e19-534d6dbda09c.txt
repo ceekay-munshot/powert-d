@@ -1,0 +1,1119 @@
+HITACHI
+May 13, 2026
+The Secretary,
+Listing Department,
+BSE Limited,
+1st Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Scrip Code: 543187
+
+The Manager,
+Listing Department,
+National Stock Exchange of India Limited,
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+Scrip Symbol: POWERINDIA
+
+Subject: Regulation 32(6) – Report of Monitoring Agency on the use of proceeds raised through Qualified
+Institutional Placement (‘QIP’) for the quarter ended March 31, 2026
+Ref.: Funds raised through Qualified Institutional Placement (QIP)
+Dear Sir / Madam,
+Pursuant to Regulation 32(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read
+with Regulation 173A of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, we are
+enclosing herewith the Monitoring Agency Report dated May 13, 2026 issued by Crisil Ratings Limited, in respect
+of use of proceeds raised through the issue of equity shares by way of Qualified Institutional Placement, for the
+quarter ended March 31, 2026.
+Kindly take the same on your records.
+Thank you,
+Yours faithfully,
+For Hitachi Energy India Limited
+
+AMMATANDA
+CHINNAPPA
+POOVANNA
+
+Digitally signed by AMMATANDA
+CHINNAPPA POOVANNA
+Date: 2026.05.13 17:42:52 +05'30'
+
+Poovanna Ammatanda
+General Counsel and Company Secretary
+Encl.: as above
+
+Hitachi Energy India Limited
+Registered and Corporate Office:
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru - 560 092
+Email ID: investors@hitachienergy.com
+Phone: 080 68473700
+CIN: L31904KA2019PLC121597
+hitachienergy.com/in
+
+Crisil
+Ratings
+
+Monitoring Agency Report
+for
+Hitachi Energy India Limited
+for the quarter ended
+March 31, 2026
+
+1
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+CRL/MAR/APPSIL/2025-26/1755
+May 13, 2026
+To
+Hitachi Energy India Limited
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru,
+Karnataka, India - 560092
+Dear Sir,
+Monitoring Agency Report for the quarter ended March 31, 2026 - in relation to the Qualified Institutional
+Placement (“QIP”) of Hitachi Energy India Limited (“the Company”)
+Pursuant to Regulation 173A of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 (“SEBI
+ICDR Regulations”) and Monitoring Agency Agreement dated March 10, 2025 enclosed herewith the Monitoring
+Agency Report, issued by Crisil Ratings Limited, Monitoring Agency, as per Schedule XI of the SEBI ICDR
+Regulations towards utilization of proceeds of QIP for the quarter ended March 31, 2026.
+Request you to kindly take the same on records.
+Thanking you,
+For and on behalf of Crisil Ratings Limited
+
+Shounak Chakravarty
+Director, Ratings (LCG)
+
+2
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+Report of the Monitoring Agency (MA)
+Name of the issuer: Hitachi Energy India Limited
+For quarter ended: March 31, 2026
+Name of the Monitoring Agency: Crisil Ratings Limited
+(a) Deviation from the objects: No
+(b) Range of Deviation: Not applicable
+Declaration:
+We declare that this report provides an objective view of the utilization of the issue proceeds in relation to the objects of the
+issue based on the information provided by the Issuer and information obtained from sources believed by it to be accurate and
+reliable. The MA does not perform an audit and undertakes no independent verification of any information/ certifications/
+statements it receives. This Report is not intended to create any legally binding obligations on the MA which accepts no
+responsibility, whatsoever, for loss or damage from the use of the said information. The views and opinions expressed herein do
+not constitute the opinion of MA to deal in any security of the Issuer in any manner whatsoever. Nothing mentioned in this
+report is intended to or should be construed as creating a fiduciary relationship between the MA and any issuer or between the
+agency and any user of this report. The MA and its affiliates also do not act as an expert as defined under Section 2(38) of the
+Companies Act, 2013.
+The MA or its affiliates may have credit rating or other commercial transactions with the entity to which the report pertains
+and may receive separate compensation for its ratings and certain credit-related analyses. We confirm that we do not perceive
+any conflict of interest in such relationship/interest while monitoring and reporting the utilization of the issue proceeds by the
+issuer.
+We have submitted the report herewith in line with the format prescribed by SEBI, capturing our comments, where applicable.
+There are certain sections of the report under the title “Comments of the Board of Directors”, that shall be captured by the
+Issuer’s Management / Audit Committee of the Board of Directors subsequent to the MA submitting their report to the issuer
+and before dissemination of the report through stock exchanges. These sections have not been reviewed by the MA, and the MA
+takes no responsibility for such comments of the issuer’s Management/Board.
+Signature:
+Name and designation of the Authorized Signatory: Shounak Chakravarty
+Designation of Authorized person/Signing Authority: Director, Ratings (LCG)
+
+3
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+1) Issuer Details:
+Name of the issuer:
+
+Hitachi Energy India Limited
+
+Names of the promoter:
+
+Hitachi Energy Limited
+
+Industry/sector to which it belongs:
+
+Heavy Electrical Equipment
+
+2) Issue Details
+Issue Period:
+
+March 10, 2025 to March 13, 2025
+
+Type of issue (public/rights):
+
+Qualified Institutions Placement (QIP)
+
+Type of specified securities:
+
+Equity Shares
+
+QIP Grading, if any:
+
+NA
+
+Issue size:
+
+The issue comprises up to 21,90,688 equity shares, priced at Rs.
+11,507 per equity share. The gross proceeds from the issue
+aggregate to Rs. 2,520.82 crore. Following the deduction of fees,
+commissions, and expenses related to the issue, the net proceeds
+are expected to be Rs. 2,476.29 crore*
+
+*Crisil Ratings shall be monitoring the net proceeds amount as per placement document dated 13th March 2025(Offer
+Document).
+3) Details of the arrangement made to ensure the monitoring of issue proceeds:
+
+Particulars
+
+Whether all utilization is as per the
+disclosures in the Offer Document?
+
+Reply
+
+Source of
+information/
+certifications
+considered by
+Monitoring Agency
+for preparation of
+report
+
+Comments of
+the Monitoring
+Agency
+
+Comments of
+the Board of
+Directors
+
+Yes
+
+Management
+undertaking, Peerreviewed
+Independent
+Chartered Accountant
+Certificate^
+Placement Document
+(hereinafter referred as
+“Offer
+document”)dated
+March 13, 2025 & Bank
+Statements
+
+Proceeds were
+utilized
+towards capital
+expenditure
+
+No Comments
+
+4
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+Source of
+information/
+certifications
+considered by
+Monitoring Agency
+for preparation of
+report
+
+Comments of
+the Monitoring
+Agency
+
+Comments of
+the Board of
+Directors
+
+NA
+
+No Comments
+
+No Comments
+
+Whether the means of finance for the
+disclosed objects of the issue has
+changed?
+
+NA
+
+No Comments
+
+No Comments
+
+Is there any major deviation observed
+over the earlier monitoring agency
+reports?
+
+No
+
+No Comments
+
+No Comments
+
+Whether all Government/statutory
+approvals related to the object(s)
+have been obtained?
+
+NA
+
+No Comments
+
+No Comments
+
+Whether all arrangements pertaining
+to technical assistance/collaboration
+are in operation?
+
+NA
+
+No Comments
+
+No Comments
+
+Are there any favorable events
+improving the viability of these
+object(s)?
+
+NA
+
+No Comments
+
+No Comments
+
+Are there any unfavorable events
+affecting the viability of the object(s)?
+
+NA
+
+No Comments
+
+No Comments
+
+NA
+
+No Comments
+
+No Comments
+
+Particulars
+
+Reply
+
+Whether shareholder approval has
+been obtained in case of material
+deviations
+from
+expenditures
+disclosed in the Offer Document?
+
+Is there any other relevant
+information that may materially
+affect the decision making of the
+investors?
+NA represents Not Applicable
+
+Peer-reviewed
+Independent
+Chartered Accountant
+Certificate ^,
+Management
+undertaking
+
+^Certificate dated April 28, 2026, issued by M/s M O J & Associates, Chartered Accountants (Firm Registration Number:
+015425S), Peer Reviewed Independent Chartered Accountant
+
+5
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+4) Details of object(s) to be monitored:
+i. Cost of the object(s):
+
+Sr.
+No.
+
+1
+
+2
+
+3
+
+Item
+Head
+
+Funding the
+capital
+expenditure
+requirements of
+the Company,
+including towards
+expansion and
+development of
+the Business Units
+Funding the
+working capital
+requirements of
+the Company
+
+Source of
+information/
+certification
+considered by
+MA for
+preparation of
+report
+
+Management
+undertaking,
+Peerreviewed
+Independent
+Chartered
+Accountant
+Certificate ^,
+Placement
+Document
+
+General Corporate
+Purposes#
+Total
+
+-
+
+Original
+cost
+(as per the
+Offer
+Document)
+(Rs in
+crore)
+
+Comments of the Board of Directors
+
+Reason of
+Cost
+revision
+
+Proposed
+financing
+option
+
+Particulars
+of firm
+arrangements
+made
+
+NA
+
+No revision
+in cost
+during the
+quarter
+
+No
+Comments
+
+No
+Comments
+
+No
+Comments
+
+NA
+
+No revision
+in cost
+during the
+quarter
+
+No
+Comments
+
+No
+Comments
+
+No
+Comments
+
+613.01
+
+NA
+
+No revision
+in cost
+during the
+quarter
+
+No
+Comments
+
+No
+Comments
+
+No
+Comments
+
+2,476.29
+
+-
+
+-
+
+1,513.28
+
+350.00
+
+Revised
+Cost
+(Rs in
+crore)
+
+Comment of
+the MA
+
+#The amount utilised for general corporate purposes does not exceed 25% of the Gross Proceeds (amounting to Rs 630.21 crore) from the
+
+Fresh Issue.
+^Certificate dated April 28, 2026, issued by M/s M O J & Associates, Chartered Accountants (Firm Registration Number: 015425S), Peer
+Reviewed Independent Chartered Accountant
+
+6
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+ii. Progress in the object(s):
+
+Sr.
+No.
+
+1
+
+2
+
+Item Head#
+
+Source of
+Amount utilized
+Comments of the
+information/
+(Rs
+in
+crore)
+Board
+of Directors
+Amount as
+certifications
+proposed
+considered by
+Total
+Comments of
+in the
+Monitoring
+unutilized
+the
+As at
+At the
+Offer
+During
+Agency for
+amount
+Monitoring Reasons Proposed
+beginning
+end
+Document
+the
+preparation of
+(Rs in
+Agency
+of the
+of the
+for idle course of
+(Rs in
+quarter
+report
+crore)
+quarter
+quarter
+funds
+action
+crore)
+
+Funding the
+capital
+expenditure
+requirements of Management
+the Company,
+undertaking,
+including towards Peer-reviewed
+expansion and
+Independent
+development of
+Chartered
+the Business Units Accountant
+Certificate^,
+Funding the
+Placement
+working capital
+Document,
+requirements of
+Bank
+the Company
+Statements
+
+1,513.28
+
+110.55
+
+359.11
+
+469.66
+
+Utilisation is
+related to
+capacity
+increase,
+equipment
+addition and
+civil works.
+
+No Comments
+
+350.00
+
+No utilisation
+during the
+reported
+quarter
+
+No Comments
+
+No Comments
+
+-
+
+1,043.62
+
+Refer not 1&2
+
+350.00
+
+Nil
+
+Nil
+
+Nil
+
+3
+
+General Corporate
+Purposes
+
+613.01
+
+Nil
+
+Nil
+
+Nil
+
+613.01
+
+No utilisation
+during the
+reported
+quarter
+
+-
+
+Total
+
+2,476.29
+
+110.55
+
+359.11
+
+469.66
+
+2,006.63
+
+-
+
+^Certificate dated April 28, 2026, issued by M/s M O J & Associates, Chartered Accountants (Firm Registration Number: 015425S), Peer
+Reviewed Independent Chartered Accountant
+Note 1: During the reported quarter, an inadvertent transfer of Rs 0.15 crore occurred from a Monitoring account of the company that is
+not related to the objects of the issue as per the offer document. Upon realisation, the error was promptly rectified, and the amount was fully
+reversed and credited back to the monitoring account on April 2, 2026.
+Note 2 : During the quarter ended March 31, 2026, the Company utilized Rs 10.58 crore from its internal accruals towards object 1 of the
+issue i.e. Funding the capital expenditure requirements of the Company, including towards expansion and development of the Business Units for
+operational ease. This amount was subsequently reimbursed within the same quarter from Monitoring account of the Company to current
+account of the Company.
+
+7
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+#Brief description of objects:
+
+Object of the Issue
+
+Description of objects as per the offer document filed by the issuer
+
+Funding the capital expenditure
+requirements of the Company,
+including towards expansion and
+development of the Business Units
+
+The Company has 19 manufacturing units located across eight manufacturing
+locations and offering products, systems and services through four Business Units
+namely, (i) Grid automation, (ii) Grid integration, (iii) High voltage products; and
+(iv) Transformers (collectively, the “Business Units”). They propose to utilise
+among other things including , capacity enhancement, factory expansion,
+purchase of machinery, safety improvements and infrastructure upgrades of the
+Business Units. The proposed capital expenditure will allow them to increase the
+operational efficiency, help us optimize costs and increase the overall revenue and
+also aid in strengthening the market position and improving technological
+infrastructure.
+
+Funding the working capital
+requirements of the Company
+
+The Company funds a majority of the respective working capital requirements in
+the ordinary course of business largely from internal accruals and availing
+financing facilities from various lenders. Their working capital is largely
+deployed towards funding the trade receivables and inventories.
+As per placement document filed by the Company, General corporate purposes
+may include, but are not restricted to,
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+vii.
+
+Funding inorganic growth opportunities for expansion of our
+operations
+Business development initiatives
+strategic initiatives
+mergers and acquisitions
+business partnerships
+making payments towards vendors
+meeting fund exigencies
+
+General Corporate Purposes
+The quantum of utilisation of funds towards each of the above purposes will be
+determined by the Management, based on the amount actually available under
+this head and the business requirements of Company, from time to time.
+The Company may utilise the Net Proceeds towards other expenditure
+considered expedient and as approved periodically by the Board, subject to
+compliance with necessary provisions of the Companies Act, 2013 and other
+applicable laws. The quantum of utilisation of funds towards each of the above
+purposes will be determined by the Board, based on the amount actually
+available under this head and the business requirements of the Company, from
+time to time.
+
+8
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+iii. Deployment of unutilised proceeds:
+Based on management undertaking and Peer -reviewed Independent Chartered Accountant’s Certificate dated April 28, 2026
+issued by M/s M O J & Associates , Chartered Accountants (Firm Registration Number: 015425S).
+Amount
+Earnings
+Return on
+Market value as at
+Type of instrument where
+invested
+Maturity
+(Rs in
+S. No.
+Investment
+the end of quarter
+amount is invested
+(Rs in
+date
+Crore)
+(%)
+(Rs in Crore)
+Refer
+note
+3
+Crore)
+1
+
+50301280231392 –
+HDFC Bank
+Short Term Deposit
+
+320.00
+
+04/17/2026
+
+4.11
+
+6.25%
+
+324.11
+
+2
+
+44804302944 –
+SBI Bank
+Term Deposit
+
+200.00
+
+04/02/2026
+
+2.78
+
+5.90%
+
+202.78
+
+3
+
+LD2601640077 – Sumitomo
+Mitsui Banking Corporation
+Fixed Deposit
+
+180.00
+
+04/17/2026
+
+2.10
+
+5.69%
+
+182.10
+
+4
+
+LD2603540034 – Sumitomo
+Mitsui Banking Corporation
+Fixed Deposit
+
+90.00
+
+05/06/2026
+
+0.79
+
+5.75%
+
+90.79
+
+200.00
+
+05/13/2026
+
+0.63
+
+5.25%
+
+200.63
+
+250.00
+
+05/20/2026
+
+0.64
+
+5.85%
+
+250.64
+
+200.00
+
+05/25/2026
+
+0.49
+
+5.60%
+
+200.49
+
+200.00
+
+06/08/2026
+
+0.63
+
+5.20%
+
+200.63
+
+230.00
+
+06/12/2026
+
+0.53
+
+5.25%
+
+230.53
+
+136.63
+
+NA
+
+NA
+
+NA
+
+136.63
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+073-427809-901 –
+HSBC Bank
+Resident Cumulative Deposit
+073-427809-902 –
+HSBC Bank
+Resident Cumulative Deposit
+45660738903 –
+SCB Bank
+Short Term Deposit
+45660737923 –
+SCB Bank
+Short Term Deposit
+45660738911 –
+SCB Bank
+Short Term Deposit
+Balane Lying in Monitoring
+Account
+Refer Note 4
+
+Total
+
+2,006.63
+
+12.70
+
+2,019.33
+
+Note 3: Monitoring the deployment of Interest Income earned from unutilised Net proceeds does not form part of the scope of Monitoring
+Agency report.
+Note 4: The balance lying in the Monitoring Account as on March 31, 2026 stands at Rs 136.48 crore. However, due to an inadvertent
+transfer of Rs 0.15 crore during the reported quarter, not in accordance with the objects of the issue, the adjusted balance should be Rs
+136.63 crore. The said amount was fully reversed and credited back to the Monitoring Account on April 2, 2026, with no impact on the
+utilization of issue proceeds.
+9
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+iv. Delay in implementation of the object(s):
+Based on management undertaking and Peer-reviewed Independent Chartered Accountant’s Certificate dated April 28, 2026
+issued by M/s M O J & Associates , Chartered Accountants (Firm Registration Number: 015425S).
+Comments of the Board of
+Completion Date
+Directors
+Delay
+As per the
+Proposed course
+Object(s)
+(no. of days/
+Offer
+Actual
+Reason of
+of
+months)
+Document
+delay
+action
+Funding the capital expenditure
+Fiscal 2026:
+Fiscal 2026:
+requirements of the Company, including
+towards expansion and development of the Rs 756.57crore Rs 469.66 crore
+Refer Note 5
+Business Units
+
+No comments
+
+No comments
+
+Funding the working capital requirements
+of the Company
+
+No comments
+
+No comments
+
+350.00
+
+Fiscal 2026:
+Nil
+
+Note 5: As per Company's Prospectus dated March 13, 2025, the Company had estimated to utilize Rs 1,106.57 crore for object
+1 and 2 i.e. Funding the capital expenditure requirements of the Company, including towards expansion and development
+of the Business Units and Funding the working capital requirements of the Company by Fiscal 2026. However, based on
+certificate dated April 28, 2026, issued by M/s M O J & Associates, Chartered Accountants (Firm Registration Number:
+015425S), Peer-reviewed Independent Chartered Accountant of the Company and management undertaking, the Company
+has utilized Rs 469.66 crore only as at the end of fiscal 2026, hence, there is a delay in the implementation schedule. This is on
+account of expansion project delayed due to adverse weather conditions and revision in project scope driven by evolving
+business requirement and no immediate requirement of utilisation of working capital.
+However, the Prospectus further states that, “If the actual utilisation towards the Objects is lower than the proposed deployment due
+to mentioned factors in the offer document, the funds would be utilised (in part or full) in the subsequent periods as may be decided by our
+management, in accordance with applicable laws”.
+5) Details of utilization of proceeds stated as General Corporate Purpose (GCP) amount in the offer document^:
+^No utilisation, based on management undertaking and Peer-reviewed Independent Chartered Accountant’s Certificate dated April 28,
+2026 issued by M/s M O J & Associates , Chartered Accountants (Firm Registration Number: 015425S).
+
+10
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+Disclaimers:
+a)
+
+This Report is prepared by Crisil Ratings Limited (hereinafter referred to as "Monitoring Agency” / “MA" /
+“CRL”). The MA has taken utmost care to ensure accuracy and objectivity while developing this Report based on the
+information provided by the Issuer and information obtained from sources believed by it to be accurate and reliable.
+The views and opinions expressed herein do not constitute the opinion of MA to deal in any security of the Issuer in
+any manner whatsoever.
+b) This Report has to be seen in its entirety; the selective review of portions of the Report may lead to inaccurate
+assessments. For the purpose of this Report, MA has relied upon the information provided by the management
+/officials/ consultants of the Issuer and third-party sources like statutory auditors (or from peer reviewed CA firms)
+appointed by the Issuer believed by it to be accurate and reliable.
+c) Nothing contained in this Report is capable or intended to create any legally binding obligations on the MA which
+accepts no responsibility, whatsoever, for loss or damage from the use of the said information. The MA is also not
+responsible for any errors in transmission and specifically states that it, or its directors, employees do not have any
+financial liabilities whatsoever to the users of this Report.
+d) The MA and its affiliates do not act as a fiduciary. The MA and its affiliates also do not act as an expert to the extent
+defined under Section 2(38) of the Companies Act, 2013. While the MA has obtained information from sources it
+believes to be reliable, it does not perform an audit and undertakes no independent verification of any information/
+certifications/ statements it receives from auditors (or from peer reviewed CA firms), lawyers, chartered engineers or
+other experts, and relies on in its reports.
+e) The MA or its affiliates may have other commercial transactions with the entity to which the report pertains. As an
+example, the MA may rate the issuer or any debt instruments / facilities issued or proposed to be issued by the issuer
+that is subject matter of this report. The MA may receive separate compensation for its ratings and certain creditrelated analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors.
+f) The MA report is intended for the jurisdiction of India only. This report does not constitute an offer of services.
+Without limiting the generality of the foregoing, nothing in the report is to be construed as CRL providing or
+intending to provide any services in jurisdictions outside India, where it does not have the necessary licenses and/or
+registration to carry out its business activities referred to above.
+g) Access or use of this report does not create a client relationship between CRL and the user.
+h) CRL is not aware that any user intends to rely on the report or of the manner in which a user intends to use the report.
+In preparing this report, MA has not taken into consideration the objectives or particular needs of any particular user.
+i) It is made abundantly clear that the report is not intended to and does not constitute an investment advice. The report
+is not an offer to sell or an offer to purchase or subscribe for any investment in any securities, instruments, facilities
+or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The report
+should not be a basis for any investment decision within the meaning of any law or regulation (including the laws
+and regulations applicable in the US).
+j) The report comprises professional opinion of CRL as of the date they are expressed, based on the information received
+from the issuer and other sources considered reliable by CRL. Any opinions expressed here are in good faith, are subject
+to change without notice, and are only current as of the stated date of their issue. The report does not constitute
+statements of fact or recommendations to purchase, hold or sell any securities/instruments or to make any investment
+decisions.
+k) Neither CRL nor its affiliates, third-party providers, as well as their directors, officers, shareholders, employees or
+agents guarantee the accuracy, completeness or adequacy of the report, and shall not have any liability for any errors,
+omissions or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the
+report. CRL and each aforesaid party disclaims any and all express or implied warranties, including but not limited
+to any warranties of merchantability, suitability or fitness for a particular purpose or use or use. In no event shall
+CRL or any aforesaid party be liable to any user for any direct, indirect, incidental, exemplary, compensatory,
+punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost
+income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of
+the possibility of such damages.
+11
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
+Crisil
+Ratings
+l)
+
+CRL has established policies and procedures to maintain the confidentiality of certain non-public information received
+in connection with the preparation of this report. CRL has in place a code of conduct and policies for managing conflict
+of interest.
+m) Unless required under any applicable law, this report should not be reproduced or redistributed to any other person
+or in any form without prior written consent from CRL.
+n) By accepting a copy of this Report, the recipient accepts the terms of this Disclaimer, which forms an integral part of
+this Report.
+
+12
+Crisil Ratings Limited
+Corporate Identity Number: U67100MH2019PLC326247
+Registered Office: Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai- 400 072. India
+Phone: +91 22 6137 3000 I www.crisilratings.com
+
+a company of S&P Global
+
