@@ -1,6 +1,6 @@
 {
   "slug": "hitachi-energy-india",
-  "updatedAt": "2026-05-26T04:57:30.783Z",
+  "updatedAt": "2026-05-26T17:21:54.057Z",
   "documents": [
     {
       "id": "ar-2025",
@@ -88,6 +88,57 @@
       "textFile": "ar-2019.txt",
       "status": "cached",
       "textChars": 441537
+    },
+    {
+      "id": "ann-6e1a21ef-96d7-4f45-804a-1415570a0fd3",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-05-26T16:53:15.71",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c5bb133-a148-4f3d-b3a5-68340c67d7e1.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0c5bb133-a148-4f3d-b3a5-68340c67d7e1.pdf"
+      ],
+      "textFile": "ann-6e1a21ef-96d7-4f45-804a-1415570a0fd3.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c5bb133-a148-4f3d-b3a5-68340c67d7e1.pdf",
+      "pdfBytes": 3188412,
+      "textChars": 44926
+    },
+    {
+      "id": "ann-c5494f77-41b3-40a8-8e9b-3cd96b18fde4",
+      "type": "announcement",
+      "title": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and further to our communication dated May 15, 2026, the presentation material being referred to during the event: \"Powering India''s Next 25: Hitachi Energy India Investor Day 2026\" as scheduled today i.e., May 26, 2026 is hosted on the website of the Company at https://www.hitachienergy.com/in/en/investor-relations/analyst-section",
+      "date": "2026-05-26T16:32:24.863",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d160cc5-0c8b-4b2d-96fc-c54cb1690af4.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d160cc5-0c8b-4b2d-96fc-c54cb1690af4.pdf"
+      ],
+      "textFile": "ann-c5494f77-41b3-40a8-8e9b-3cd96b18fde4.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d160cc5-0c8b-4b2d-96fc-c54cb1690af4.pdf",
+      "pdfBytes": 416200,
+      "textChars": 1387
+    },
+    {
+      "id": "ann-4d8b8169-76b8-400a-adab-d35c5138dec0",
+      "type": "announcement",
+      "title": "Please refer the enclosed file",
+      "date": "2026-05-26T11:36:17.03",
+      "category": "Company Update",
+      "urlConfidence": "confirmed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/72b85f9a-af19-49e0-8e77-db9bc108439a.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/72b85f9a-af19-49e0-8e77-db9bc108439a.pdf"
+      ],
+      "textFile": "ann-4d8b8169-76b8-400a-adab-d35c5138dec0.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/72b85f9a-af19-49e0-8e77-db9bc108439a.pdf",
+      "pdfBytes": 3446189,
+      "textChars": 14953
     },
     {
       "id": "ann-81a2ef3a-2e45-4e3f-bd9f-3e00f29b0d63",

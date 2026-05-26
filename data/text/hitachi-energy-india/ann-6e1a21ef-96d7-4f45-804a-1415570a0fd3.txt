@@ -1,0 +1,1740 @@
+HITACHI
+
+May 26, 2026
+The Secretary,
+Listing Department,
+BSE Limited,
+1st Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Scrip Code: 543187
+
+The Manager,
+Listing Department,
+National Stock Exchange of India Limited,
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+Scrip Symbol: POWERINDIA
+
+Subject: Newspaper publication of Audited Financial Results
+Dear Sir / Madam,
+We are enclosing herewith the extracts of the audited financial results of the Company for the quarter and financial year
+ended March 31, 2026, as approved by the Board of Directors at their Meeting held on Monday, May 25, 2026 and
+published today i.e., on Tuesday, May 26, 2026 in “The Hindu Business Line” (English Newspaper) and “Vijaya
+Karnataka” (Kannada Newspaper). The same is also being made available on the website of the Company at:
+https://www.hitachienergy.com/in/en/investor-relations/communications-to-stock-exchange.
+This is pursuant to Regulation 47 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended.
+Kindly take the same on your records.
+Thank you,
+Yours faithfully,
+For Hitachi Energy India Limited
+AMMATANDA
+Digitally signed by AMMATANDA
+CHINNAPPA POOVANNA
+CHINNAPPA
+Date: 2026.05.26 14:54:00 +05'30'
+POOVANNA
+Poovanna Ammatanda
+General Counsel and Company Secretary
+
+Encl.: as above
+
+Hitachi Energy India Limited
+Registered and Corporate Office:
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru - 560 092
+Email ID: investors@hitachienergy.com
+Phone: 080 68473700
+CIN: L31904KA2019PLC121597
+hitachienergy.com/in
+
+news . bl . 9
+
+BENGALURU
+
+businessline.
+TUESDAY - MAY 26 - 2026
+
+QUICKLY.
+Cyient raises $30 m
+at $500 m valuation
+
+-
+
+Hyderabad: Cyient
+
+Semiconductors, an arm of
+Cyient Ltd, has raised $30
+million at a valuation of $500
+million from Edelweiss India
+Alternatives Ltd and affiliated
+co-investors. The transaction
+includes an equity investment
+of about $10 million at a
+valuation of $500 million and
+$20 million in structured debt
+designed to support
+long-duration growth of the
+company. OUR BUREAU
+
+Schneider Electric sees
+India data centre boom
+
+-
+
+Our Bureau
+Mumbai
+
+FUEL SUPPLY SECURITY. The retail prices of petrol and diesel have not been raised since April 2022
+
+-
+
+Rishi Ranjan Kala
+New Delhi
+
+The austerity measures activated by the government to
+preserve economic stability,
+rein in inflation and ensure
+energy security are putting
+pressure on demand growth
+for key transport fuels, diesel
+and petrol.
+Global real time data and
+analytics provider Kpler said
+that recent austerity measures suggest Indian policymakers are increasingly prioritising
+macroeconomic
+stability, inflation management, foreign currency preservation and fuel supply security
+over
+near-term
+transportation fuel growth.
+FUEL GROWTH
+While the measures are unlikely to trigger outright demand destruction, they are
+expected to materially slow
+India’s transportation fuel
+growth trajectory during the
+second half of the year, it
+anticipates.
+
+Revisions to India's annual transport
+fuel demand growth
+(kbd)
+Gasoline
+
+Jet/
+Kero
+
+Gasoil/
+Diesel
+
+Annual demand (kbd, May 2026)
+
+1,035
+
+217
+
+1,991
+
+Revised 2026 demand after
+government measures (kbd)
+
+1,010
+
+212
+
+1,970
+
+Annual demand growth
+(kbd, May 2026)
+
+63
+
+11
+
+63
+
+Revised 2026 demand growth
+after government measures (kbd)
+
+38
+
+6
+
+42
+
+Annualised revision (kbd)
+
+-25
+
+-5
+
+-20
+
+kbd - thousand barrels per day
+
+Source: Kpler
+
+Elif Binici, Kpler’s Lead
+Analyst-Modeling, expects
+India’s
+2026
+refined
+products demand growth
+has been revised downwards
+by roughly 77,000 barrels per
+day (b/d) from the previous
+estimate of 1,28,000 b/d to
+around 78,000 b/d.
+“The revisions primarily
+reflect weaker expected
+growth in gasoline and diesel
+demand as higher costs,
+weaker mobility trends and
+recent government-led fuel
+
+conservation efforts increasingly feed into domestic
+transportation activity,” he
+told businessline.
+At the centre of the issue is
+the growing financial stress
+facing state-run oil marketing companies, he said.
+PRICE HIKE
+The retail prices of petrol
+and diesel were not raised
+since April 2022.
+However, the government
+has in the current month
+
+raised prices three times —
+once by ₹3 per litre and twice
+by 90 paise a litre. (Kpler’s
+forecast was before the third
+price rise was announced on
+May 23.)
+The government’s austerity measures came amid
+rising supply concerns with
+panic buying and precautionary stockpiling reportedly
+leaving some retailers temporarily short of fuel.
+RETAIL PRICES
+“Retail prices are likely to
+continue increasing progressively, although a sudden
+₹25–30 per litre spike still
+appears unlikely,” Binici
+said. He explained that the
+two price rises will help modestly reduce OMC under-recoveries, though the adjustments remain well below the
+estimated break-even levels.
+Based on current fuel demand levels and estimated
+loss allocations between gasoline and diesel, implied
+break-even retail prices remain substantially above
+current pump prices, he said.
+
+AI smart glasses gain momentum, but India adoption may take time
+
+-
+
+Audio-based AI
+smart glasses are
+expected to
+account for about
+91 per cent of
+shipments
+
+Aishwarya Kumar
+Bengaluru
+
+Smart AI eyewear is emerging as the next frontier in
+wearables after smartwatches and smart rings.
+While products such as the
+Ray-Ban Meta smart glasses
+have popularised the category globally, adoption in
+India is expected to remain
+gradual as high prices continue to limit mass-market
+appeal.
+The category received a
+fresh boost this week when
+Google unveiled its Android
+XR-powered AI glasses at its
+developer
+conference,
+Google I/O 2026, highlighting partnerships with Samsung and eyewear brands
+Gentle Monster and Warby
+Parker.
+Under the collaboration,
+Samsung will handle hardware development, while
+Gentle Monster and Warby
+Parker will focus on eyewear
+design and optical support.
+Google will provide the Android XR operating system,
+integrating its Gemini AI assistant and Internet services.
+FORMAL ENTRY
+The move marks Google’s
+formal entry into a market
+currently dominated by
+Meta.
+According to Smart Analytics Global (SAG), Meta
+commands nearly 80 per
+cent of the global AI smart
+glasses market. However,
+
+Google’s ecosystem advantages could intensify competition and accelerate category
+growth.
+SHIPMENTS GROW
+Linda Sui, Founder and Principal at SAG, has forecast
+that global AI smart glass
+shipments will grow 85 per
+cent year-on-year in 2026 to
+exceed 15 million units.
+Audio-based AI smart
+glasses are expected to account for about 91 per cent
+of shipments.
+SAG
+estimates
+that
+Google’s AI smart glass shipments could cross 2 million
+units globally in 2026, assuming no major supply constraints or launch delays.
+The research firm believes
+Google’s combination of
+Gemini AI, Android integration, Samsung’s hardware
+expertise and established
+eyewear partners could create a credible challenger to
+Meta’s early lead.
+Despite the global momentum, industry execut-
+
+Rossell adds US client
+amid semicon push
+
+-
+
+Aishwarya Kumar
+Bengaluru
+
+Rossell Techsys is accelerating its diversification beyond
+aerospace and defence, onboarding major US semiconductor equipment customers and positioning itself to
+benefit from what CEO Senthil Balasubramanian described as the industry’s
+“mother of all ramps” over
+the next three to four years.
+The aerospace and defence electronics manufacturer reported a 62 per cent
+year-on-year rise in revenue
+from operations to ₹142.35
+crore in Q4 FY26, while
+profit after tax stood at ₹7.47
+crore. Growth was driven by
+continued
+momentum
+across its aerospace, semiconductor and space businesses, supported by programme ramp-ups, repeat
+orders and deeper engagement with global OEMs and
+tier-1 customers.
+ONBOARDING
+“During the year, we onboarded one of the major
+manufacturers in the semiconductor equipment industry and are currently in
+the process of onboarding a
+second major US-based
+manufacturer,”
+BalasubCM
+YK
+
+ramanian told businessline.
+According to him, Rossell’s aerospace and defence
+credentials helped it gain
+traction with customers in
+adjacent sectors, such as
+semiconductors and space.
+The company currently
+derives about 70 per cent of
+its revenue from aerospace
+and defence and 30 per cent
+from non-aerospace segments, including space and
+semiconductors.
+RAPID EXPANSION
+Going forward, Rossell expects the mix to move closer
+to 60:40, with semiconductors and space accounting for
+a larger share of revenue.
+He said demand in the
+semiconductor industry is
+being fuelled by the rapid expansion of AI infrastructure
+and data centres globally.
+“Based on discussions
+with partners and market intelligence, the current phase
+is being described as the
+mother of all ramps,” he said,
+adding that the upcycle
+could continue for the next
+three to four years.
+Rossell specialises in the
+design and manufacture of
+electronic wire harnesses.
+The
+company
+also
+provides aftermarket maintenance, repair and overhaul
+services for these systems.
+
+ives believe India’s adoption
+curve will be slower.
+“It has already been the
+case that smart AI eyewear
+first emerged as an urban
+premium product category
+with Meta Ray-Ban smart
+glasses, followed by more affordable variants from
+brands such as Aeoss,” said
+Abhilash Kumar, Lead Research Advisor (Director) at
+SAG.
+MAINSTREAM BRANDS
+However, he noted that most
+mainstream brands continued to position smart eyewear as a premium wearable
+category, suggesting that
+mass-market adoption may
+still take time.
+Industry observers argued
+that consumer acceptance
+will depend not only on technology but also on factors
+such as comfort, styling, prescription compatibility and
+privacy safeguards. For Indian eyewear companies, the
+opportunity lies in making
+the technology relevant to
+everyday use rather than positioning it purely as a
+gadget.
+“Eyewear can become one
+of the most natural inter-
+
+faces for AI because glasses
+are already part of people’s
+everyday lives,” said Nirmal
+Lobo, Chief Sales and Marketing Officer, eyewear division, Titan Company Ltd .
+EARLY ADOPTION
+According to Lobo, early adoption is likely to be driven
+by practical applications,
+such as calls, audio experiences and AI assistance.
+Over time, however, smart
+eyewear could evolve into a
+more contextual and personalised computing interface.
+
+Titan is already evaluating
+opportunities across different price segments through
+brands such as Fastrack and
+Titan EyeX, reflecting its
+view that long-term scale
+will come from broader adoption rather than a niche
+premium audience.
+The company also believes
+trust will be critical.
+As AI-powered glasses collect and process more user
+data, privacy and transparency will become key factors
+influencing
+consumer
+acceptance.
+
+businessline.
+3IVI
+Classifieds
+3M INDIA LIMITED
+thehindu
+
+CIN: L31300KA1987PLC013543
+Registered Office: Plot Nos. 48-51,
+Electronic City, Hosur Road,
+Bengaluru - 560100
+Phone: 080-222314141
+Email id: investorhelpdesk.in@mmm.com
+Website: www.3m.com/in
+
+Corrigendum
+In the publication tilled "Extract of
+the Financial Results for the quarter
+and year ended 31 March 2026" of
+3M India Limited, published on 23
+May 2026 in all editions of Business
+Line and Bengaluru edition of
+Prajavani, the note above the
+financial figures table should be
+read as "Rs. in Crores, except per
+share data, unless otherwise
+stated" instead of "Rs. in Lakhs,
+except per share data, unless
+otherwise stated." Please take this
+change into consideration. All other
+contents of the publication remain
+unchanged.
+For 3M India Limited
+Pratap Rudra Bhuvanagiri
+Company Secretary &
+Compliance Officer
+Date: May 25, 2026
+Place: Bengaluru
+
+-'1-£hg~
+
+BUSINESS OFFER
+
+BUSINESS FOR SALE
+MODULAR STEEL Lab Furniture manufacturing company at Chennai. Interested contact Mr.R.Ramakrishnan
+9445560901. All technical and commercial details shall be given including Marketing Supports.
+
+“Under current assumptions, gasoline breakeven
+levels are estimated near
+₹125 per litre versus current
+retail prices of around ₹103/
+a litre, while diesel breakeven
+levels are estimated around
+₹115-120 per litre versus current prices near ₹94,” he said.
+Following the first hike in retail prices of diesel and petrol, the Oil Ministry had said
+that OMC losses declined
+from ₹1,000 core per day to
+₹750 crore daily.
+AUTO FUELS
+“Largest downside is assumed within the twowheeler-dominated
+commuting segment, which represents roughly 50 per cent
+of Indian gasoline demand
+and is expected to be most
+sensitive to fuel-saving behaviour, weaker urban mobility
+and government conservation messaging,” he added.
+Kpler also expects moderation in discretionary passenger vehicle usage, which
+accounts for roughly 25 per
+cent of gasoline demand.
+
+Comparing the entry of
+quantum computing to the
+Y2K era, Dell Technologies
+predicted the technology to
+scale meaningfully by 202829.
+During the Dell Tech
+World 2026 event, John
+Roese, Chief Technology Officer, said companies hinting
+at the 2028-29 time frame for
+quantum utility.
+Earlier, in December 2025,
+Roese
+had
+predicted
+quantum to become a bigger
+disrupter than the entry of
+ChatGPT, owing to the
+mathematical sophistication
+it will bring in. “I don’t want
+to say this is the date but
+there is a bit of a convergence probably in the 202829 time frame where some of
+these things get scaled
+enough to do something interesting. Companies are no
+longer saying it’s a decade
+out or giving random 2-5
+years but saying dates more
+openly,” he said.
+According to Michael Dell,
+Comapny CEO, Dell intends
+to lead the industry in PQC
+(post quantum cryptography) compliance and
+
+HYBRID STRATEGY
+The company’s strategy is to
+work on hybrid classical
+quantum computing rather
+than the current classical
+computing, calling the manifestation of a quantum computer “an additive market”.
+“We have very clear identified problems to get to
+quantum utility, which
+means we have some usefulness out of these systems,
+not universal usefulness,”
+said Roese.
+
+HARIOM PIPE INDUSTRIES LIMITED
+CIN: L27100TG2007PLC054564
+Registered Office: 3-4-174/12/2, Samarpan, 1st Floor, Near PIiiar No. 125, Attapur, Hyderabad, K.V Rangareddy,
+Ra endern
+r, Telan ana, India, 500048; Tel: 040-24016101 Website: www.hartom I s.com; Email: cs artom
+.com
+
+NOTICE OF THE EXTRA-ORDINARY GENERAL MEETING
+AND E-VOTING INSTRUCTIONS:
+NOTICE is hereby given that the Extra-Ordinary General Meeting ("EGM") of the Members of Hariom Pipe Industries Limited ('the Company'') is
+scheduled to be held on Tuesday, June 16, 2026 at 12:30 p.m.(IST) through Video Conferencing ('VC")/Olher Audio-Visual Means ("OAVM')
+without the physical presence of the Members at a common venue, in compliance with the applicable provisions of the Companies Act, 2013 ("the
+Act') and the Rules framed thereunder, the SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015 ("SEBI Listing
+Regulations"), read with General Circular No. 03/2025 dated September 22, 2025 issued by the Ministry of Corporate Affairs ("MCA Circular") and
+Circular No. SEBIIHO/CFD/CFD-PoD-2/P/CIR/2024/133 dated October 3, 2024, issued by the Securities and Exchange Board of India ("SEBI
+Circulars"), to transact the business set out in the Notice oflhe EGM. Members attending the EGM through VC/OAVM shall be reckoned for the
+purpose of quorum under Section 103 of the Act.
+The Notice of the EGM along with the Explanatory Statement has been sent electronically to all Members whose names appear in the Register of
+Members/Register of Beneficial Owners as on Friday, May 15, 2026 ("Cut-off Date"), and who have registered their e-mail addresses with the
+Company/ Registrar and Share Transfer Agents/ Depository Participants/ Depositories. The said Notice of EGM is also available on the
+Company's website hllps://www.hariompipes.com/, the websites of the Stock Exchanges i.e., National Stock Exchange of India Limited
+https://www.nseindia.com/ and BSE Limited hllps://www.bseindia.com/, and on the website of Central Depository Services (India) Limited
+https://www.evotingindia.com/.
+Instructions for remote e-Voting:
+In compliance with Section 108 of the Act and Regulation 44 of the SEBI Listing Regulations and the applicable SEBI Circulars, the Company is
+pleased to provide remote e-Voting facility to all the members, to exercise theirrightto vote on the resolutions set forth in the Notice convening the
+EGM. The Company has appointed Central Depository Services (India) Limited (CDSL) tofacilitatevoting through electronic means.
+a) Remote a-Voting period: Commence from Saturday, June 13, 2026, 9:00AM {1ST) and ends on Monday, June 15, 2026, till 5:00 PM {1ST).
+The remote e-Voting module shall be disabled byCDSL thereafter.
+b) Cut-off date: Members holding shares, as on cut•off date, i.e. Tuesday, June 09, 2026, may cast their votes electronically through remote eVoting before the EGM ore-Voling during the EGM.
+c) Members who have already casttheirvotes by remote e-Voling prior to the EGM may attend the EGM but shall not be entitled to vote again.
+d) Members attending the EGM through VC/OAVM who have not cast their votes eariier shall be eligible to vote electronically during the EGM.
+e) Any person who becomes a Member of the Company after dispatch of the Notice of EGM but holds shares as on Tuesday, June 09, 2026
+('cut-off date") may obtain the login credentials by sending, an e-mail to the RTA at bsshyd@bigshareonline.com with details of their Folio
+No./DP ID and Client ID.
+For detailed instructions one-Voting and joining the EGM through VC/OAVM, members may please refer Notice of the EGM section 'Instructions
+for Shareholders for E-voting and joining Virtual Meeting'. In case of any queries, you may refer the Frequently Asked Questions ('FAQs") and eVoting manual available atwww.evotingindia.com, under help section or call on toll free no.: 1800 22 55 33 or send an email to Mr. Rakesh Dalvi,
+Senior Manager, CDSLathelpdesk.evoting@cdslindia.com, Telephone: +91 022 23058542/43.
+
+For Hariom Pipe Industries Limited
+
+Sd/-
+
+To advertise visit
+
+www.thehinduads.com
+Toll Free: 1800 102 4161
+
+close quantum encryption.
+The company’s 18th generation server product line will
+be PQC-compliant from day
+one, he said.
+The company aired the
+possibility of quantum-live
+systems in 2029 as Roese
+said he felt “very comfortable” with teams inching
+closer to resolving the engineering challenges in some of
+these modalities.
+Dell hinted at a new domain of processing with the
+entry of quantum computing, stating, “It’s pretty hard
+to even imagine what this is
+going to look like if you’re
+stuck in the classical computing construct. It’s like
+Y2K, except you don’t know
+when it’s coming.”
+
+RekhaSingh
+Company Secretary and Compliance Officer
+M. No.: A33986
+
+Dated: May 25, 2026
+Place: Hyderabad
+
+HITACHI
+
+mu!pa
+
+CHOLAMANDALAMINVESTMENTAND
+FINANCE COMPANY LIMITED
+GIN: L65993TN1978PLC007576
+Regd. Office: "Chola Crest'', C54-55 & Super B-4, Thiru-Vi-Ka Industrial Estate, Guindy, Chennai - 600032.
+Tel.: 044 40907172.
+Email: investors@chola.murugappa.com; Website: www.cholamandalam.com
+
+Hitachi Energy India Limited
+Corporate Identification Number (Cl NJ: L31904KA2019PLC121597
+Registered office: 8th Floor, Brigade Opus 70/401, Kodigehalli Main Road, Bengaluru 560092
+Phone No.: +91 80 6847 3700
+Website: www.hitachienergy.com/in
+E-mail: investors@hitachienergy.com
+
+NOTICE TO MEMBERS
+Notice is hereby given pursuant to section 124(6) of the Companies Act, 2013 (the Act)
+and rules read with the provisions of the Investor Education and Protection Fund
+Authority (Accounting, Audit, Transfer and Refund) Rules, 2016 ("Rules") notified by the
+MinistryofCorporateAffairs (MCA).
+As per the above provisions, all shares in respect of which dividends has not been paid or
+claimed for seven consecutive years or more are required to be transferred to the demat
+account of the Investor Education Protection Fund (IEPF) Authority. In respect of the
+Final Dividend declared during for the financial year2018-19, the due date fortransferof
+the shares is 3 September, 2026. Individual communication is being sent to the
+concerned members whose shares are liable to be transferred to the IEPF Authority, at
+the latest available address advising them to claim their dividends.
+Details of members including the name, folio number/DP ID/Client ID and equity shares
+due for transfer to IEPF Authority are uploaded on the Company's website at
+htlps:l/www.cholamandalam.com for verification by concerned members. In case the
+Company/ KFin Technologies Limited (RTA) does not receive the requisite documents
+by 17 August, 2026, the Company shall, in compliance with the requirements oflhe said
+Rules, transfer the shares to the IEPF as per procedure stipulated in Rules, without any
+further notice.
+Members may note that both unclaimed dividend and the shares transferred to the IEPF
+including all benefits accruing on such shares, if any, can be claimed by them from the IEPF
+Authority after following the due procedure prescribed in the Rules.
+Forfurther information/ clarification, concerned shareholders may contact the Company
+or the RTAat the following address:
+
+Cholamandalam Investment and
+Finance Company Limited
+"Chola Crest", C54-55 & Super B-4,
+Thiru-Vi-Ka Industrial Estate,
+Guindy, Chennai - 600032.
+Tel No.: 044-40907172.
+Email: investors@chola.murugappa.com
+web: www.cholamandalam.com
+
+Kfin Technologies Limited
+Unit: Cholamandalam Investment and
+Finance Company Limited
+Selenium Tower B, Plot 31 - 32,
+Gachibowli, Financial District, Nanakramguda,
+Seringampally, Hyderabad - 500 032
+Tel: 040-6716161611560
+Toll Free No.: 1800 309 4001
+Fax No: 040-2342 0814
+Email: einward.ris@kfintech.com
+Contact Person: Mr. Ramesh SR,
+Deputy Vice President - Corporate Registry
+
+Further, Members are requested to update their KYC details with RTA in respect of the
+shares held in physical mode/ Depository Participant where the shares are demat mode.
+Members may further note that, all requests for transfer of securities including
+transmission and transposition requests shall be processed only in dematerialised form.
+In view of the same and to eliminate all risks associated with physical shares and avail
+various benefits of dematerialization, Members are advised to dematerialize the shares
+held by them in physical form.
+For Cholamandalam Investment and Finance Company Limited
+Chennai
+P. Sujatha
+Company Secretary
+May 25, 2026
+
+Extract of audited results for the
+quarter and year ended 31/03/2026
+Particulars
+
+(< in Crores)
+
+Quarter ended
+31/03/2026
+
+Year ended
+31/03/2026
+
+Corresponding
+quarter ended
+31/03/2025
+
+1
+
+Total income from operations
+
+2,754.05
+
+8,147.71
+
+1,883.68
+
+2
+
+Net Profit/ (Loss) for the period
+(before Tax, Exceptional and/ or Extraordinary items)
+
+443.35
+
+1,375.16
+
+246.67
+
+3
+
+Net Profit/ (Loss) for the period before Tax
+(after Exceptional and/ or Extraordinary items)
+
+443.35
+
+1,320.92
+
+246.67
+
+4
+
+Net Profit/ (Loss) for the period after Tax
+(after Exceptional and/ or Extraordinary items)
+
+330.46
+
+987.84
+
+183.89
+
+5
+
+Total Comprehensive Income for the period
+[Comprising Profit/ (Loss) for the period (after tax)
+and Other Comprehensive Income (after tax)]
+
+329.15
+
+988.59
+
+183.09
+
+6
+
+Equitv Share Capital
+(Face value per share 'f.2/- each)
+
+8.92
+
+8.92
+
+8.92
+
+1. Basic
+
+74.14
+
+221.63
+
+43.15
+
+2. Diluted
+
+74.14
+
+221.63
+
+43.15
+
+7
+
+Earnings per share (of '11:2/- each)
+
+Notes:
+The above is an extract of the detailed format of Quarterly Financial Results filed with the Stock Exchanges under Regulation
+33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The full format of the Quarterly Financial
+Results are available on the Stock Exchange websites: www.nseindia.com and www.bseindia.com and company's
+website: www.hitachienergv.com/in/en/investor-relations/financial-results. The same can be accessed by scanning the Quick Response
+(QR) code provided below.
+
+For Hitachi Energy India Limited
+Sd/Nuguri Venu
+Managing Director & CEO
+DIN: 07032076
+
+Place : Mumbai
+Date : May 25, 2026
+
+...._,
+,.-.
+...
+
+A BG-BGE
+
+e82444b2-0d68-4393-81aa-9407b6d7f816
+
+e82444b2-0d68-4393-81aa-9407b6d7f816
+
++
+
+Schneider Electric expects its
+India data centre business to
+outpace broader operations in
+the country over the next four
+to five years, driven by surging
+demand for AI-ready
+infrastructure, according to a
+senior executive. Data centres
+currently account for 15 per
+cent to 20 per cent of
+Schneider Electric’s India
+business and are growing at a
+double-digit pace, with the firm
+expecting the segment to
+become a much larger share,
+Sumati Sahgal, Vice-President
+for Secure Power and Data
+Centres, Greater India Zone,
+said. REUTERS
+
+computing to hit
+West Asia conflict: Austerity measures Quantum
+scale in 2028-29: Dell Tech
+to impact diesel, petrol demand growth -
+
++
+
+02 ÊÜ¸æáííWÜWÜÙÙÜãÜÊÃÜÝÃÜá ,26 Êæáà 2026,
+
+ÃÝgÂ STATE
+
+0 facebook.com/vijaykarnataka
+0 x.com/vijaykarnataka
+
+~aDamma ~ra
+
+www.vijaykarnataka.com
+www.apps.vijaykarnataka.com
+
+PÝËáìPÜ ÊÜÆ¿á¨ÜÈÉ AÓÜÊÜÞ«Ý®Ü > ÊæàñÜ®Ü ¯WÜ© A—ÓÜãaÜ®æ ÊÝ±ÜÓ…Wæ E¨æãÂàWÜ¨ÝñÜÃÜ BWÜÅÖÜ
+
+¹àw, WÝÊæáìíp…Õ PÝËáìPÜÄXÆÉ PÜ¯ÐÜu ÊæàñÜ®Ü
+ÓÝí¨Ü¼ìPÜ bñÜÅ
+
+■ ËPÜ ÓÜá©ªÇã
+æ àPÜ ¸æíWÜÙã
+Ü ÃÜá
+
+PÜ¯ÐÜu ÊæàñÜ®Ü ¯WÜ©Àáí¨Ü WÝÊæáìíp…Õ, ¹àw PÝËáìPÜÃã
+Ü
+ÓæàÄ¨Üíñæ 19 E¨ÜÂÊÜáWÜÙÜ ®èPÜÃÃÜ ®Ü áÜ ° ÓÜÃPÜ ÝÃÜ ÖæãÃÜXqrÃáÜ ÊÜâ¨ÜPRæ
+PÝËáìPÜ ÊÜÆ¿á¨ÜÈÉ ÊÝÂ±ÜPÜ BPæãÅàÍÜ ÊÜÂPÜÊ
+¤ ÝX¨æ.
+A±Ý¿áPÝÄ ®ÝÆáR E¨æãÂàWÜWÙÜ áÜ ÓæàÄ 99 A—ÓÜãbñÜ
+E©ªÊáæ WÜÙÈ
+Ü É ¨Üáw¿ááÊÜÊÄÜ Wæ PÜ¯ÐÜu ÊæàñÜ®Ê
+Ü ®Ü áÜ ° Íæà.60ÃÜÐáÜ r
+ÖæaÙcÜ Ü ÊÜÞwÃÜáÊÜ ÓÜÃPÜ ÝÃÜ, B ±Üq¿
+r áÈÉ AñÜÂíñÜ ¨ÜáŸìÆ ÖÝWÜã
+ÓÜãPÜ$Ò ¾ ÊÜÆ¿áÊæí¨Üá WÜáÃÜá£ÓÜÇÝXÃÜáÊÜ ¹àw ÖÝWÜã
+WÝÊæáìíp…Õ E¨ÜÂÊÜá GÃÜv®Ü ã
+Ü ° ±ÜÄWÜ~ÔÆÉ. D GÃÜvã
+Ü
+ÊÜÆ¿áWÜÙÆ
+Ü ãÉ ŸÖÜáñæàPÜ ÊÜá×Ùæ¿áÃæà PÝ¿áì¯ÊÜì×ÓÜá£¤¨áÜ ,ª
+AÊÜÄWæ A®ÝÂ¿áÊÝX¨æ Gí¨Üá PÝËáìPÜ ÓÜíZo®æWÙÜ áÜ
+AÓÜÊÞ
+Ü «Ý®Ü ÖæãÃÜÖÝQÊæ.
+D ÊÜá«æÂ, PÜ®ÝìoPÜ E¨æãÂàWÜ¨ÝñÜÃÜ ÓÜíZ ®ÝÂ¿ÞÆ¿á¨Ü
+B¨æàÍÜ EÆÉíZ®æ ÊÜÞw ¯WÜ©±ÜwÔÃÜáÊÜ ÊæàñÜ®Ü A—ÓÜãaÜ®æ
+ÊÝ±ÜÓ… ±Üv¿
+æ á¸æàPæí¨Üá ÊÜááSÂÊÜáí£Å ÖÝWÜã PÝËáìPÜÃÜ
+ÓÜbÊÜÄWæ ÓæãàÊÜáÊÝÃÜ ÊÜá®ÜË ÓÜÈÔÉ Êæ.
+ÊæàñÜ®Ü ±ÜÄÐÜÃR O
+Ü À
+æ áí¨Ü ÃÝgÂ¨ÜÈÉ Jí¨Üá PæãàqWÜã A—PÜ
+E¨æãÂàXWÜÚWæ ÓÜÖÝ¿áPÜÊÝWÜÈ¨æ. B¨ÜÃ,æ PÜ¯ÐÜu ÊæàñÜ®Ü
+±ÜÄÐÜÃR O
+Ü ¿
+æ á ÖæãÃÜWæ EÚ©ÃÜáÊÜ 19 E¨æãÂàWÜWÙÜ È
+Ü É 10 ÆûÜPã
+Ü R
+ÖæaáÜ c PÝËáìPÜÄ¨ÝªÃ.æ
+""¹àw, ñæãào ÊÜáñÜá¤ WÝÊæáìíp…Õ PÝTÝì®æ¿á PÝËáìPÜÃáÜ
+
+WÝÊæáìíp…Õ ®èPÜÃÄÜ Wæ
+ÓÜÃPÜ ÝÃÜ©í¨Ü ÓÜññÜ Ü A®ÝÂ¿á
+
+PÜwÊæá ÊæàñÜ®Ü ±Üv¿
+æ áá£¤¨ÝªÃ.æ 2023ÃÜ g®ÜÊÄÜ ¿áÈÉ WÝÊæáìíp…Õ
+PÝËáìPÜÄWæ PÜ¯ÐÜu ÊæàñÜ®¨
+Ü Ü ±ÜÄÐÜÃR O
+Ü æ NãàÑÔ¨ÝWÜ, ±ÜÄÐÜ¢ñÜ
+ÊæàñÜ®Ê
+Ü âÜ 2017ÃÜÈÉ CñÜÃÜ E¨æãÂàWÜWÚÜ Wæ ¯WÜ©±ÜwÔ¨Ü PÜ¯ÐÜu
+ÊæàñÜ®QÜ íR ñÜ PÜwÊæáÀáñÜá.¤ C¨Üá ÊæàñÜ®Ü AÓÜÊÞ
+Ü ®Üñæ ÊÜÞñÜÅÊÆ
+Ü ,É
+ÈíWÜ ñÝÃÜñÊ
+Ü áÜ ÂÊÜä BX¨æ. HPæí¨ÜÃ,æ WÝÊæáìíp…Õ PÝËáìPÜÃáÜ
+±ÜÅ«Ý®ÜÊÝX ÊÜá×Ùæ¿áÃÝX¨ÝªÃ,æ '' Gí¨Üá AUÆ »ÝÃÜñÜ Pæàí¨ÜÅ
+PÝËáìPÜ ÓÜíZWÜÙÜ ÊÜáívÜÚ¿á (GIÔÔq¿áá) ÃÝgÂ
+PÝ¿áì¨ÜÎì Pæ. ÊæáçñÅæ àÀá ÖæàÚ¨ÜÃáÜ .
+""ÊæàñÜ®Ü ±ÜÄÐÜÃR O
+Ü À
+æ áí¨Ü ÊÜá×Ùæ¿áÄWæ Öæb®c Ü
+A®ÝÂ¿áÊÝX¨Üá,ª A¨Ü®áÜ ° ÓÜÄ±ÜwÓÜÆá ÓÜÃPÜ ÝÃÜPRæ ÊÜá®ÜË
+ÓÜÈÓÉ Ç
+Ü ÝWÜáÊÜâ¨Üá. ÓÜÃPÜ ÝÃÜ ñÝÃÜñÊ
+Ü áÜ Â «æãàÃÜOæ A®ÜáÓÜÄÓÜáÊÜâ¨Üá
+ÓÜÄ¿áÆÉ. GÇÝÉ PÝËáìPÜÃ®Ü ã
+Ü ° Jí¨æà Äà£ PÝ|¸æàPÜá,'' Gí¨Üá
+AÊÜÃáÜ "Ëg¿á PÜ®ÝìoPÜ'PæR £ÚÔ¨ÜÃáÜ .
+
+ÖæãàpæÇ… £íw, Fo¨Ü
+¨ÜÃÜ ÖæbcÓÜÆá bíñÜ®æ
+
+¸æíWÜÙÜãÃÜá: Jí¨ævæ ñæçÆ ¸æÇæ
+HÄPæ, ÊÜáñæã¤í¨ævæ PÝËáìPÜÃÜ PÜ¯ÐÜu
+ÊæàñÜ®Ü ÖæaÜcÙÜ¨Ü ×®æ°Çæ¿áÈÉ ÖæãàpæÇ…
+WÜÙÜÈÉ £íw& Fo¨Ü ¨ÜÃÜ ÖæbcÓÜÆá
+ÃÝgÂ ÖæãàpæÇ… ÊÜÞÈàPÜÃÜ ÓÜíZ
+bíñÜ®æ ®ÜvæÔ¨æ.
+""PÝËáìPÜÃÜ PÜ¯ÐÜu ÊæàñÜ®Ê
+Ü ®Ü áÜ ° JÊæáÇ
+¾ æ
+Íæà.60ÃÜÐáÜ r HÄÔ¨ÜÃæ ÖæãàpæÇ…WÜÙÈ
+Ü É
+Fo, £íw ¨ÜÃÜ Jí¨ÜãÊÜÃÀ
+æ áí¨Ü
+GÃÜváÜ ±Üoár ÖæaÝcWáÜ ÊÜâ¨Üá A¯ÊÝ¿áì.
+DWÜ ÓÝÊÜÞ®ÜÂ ÖæãàpæÇ…WÜÙÈ
+Ü É ±æàÉ p… CwÉ
+¨ÜÃÜ 40&45 ÃÜã. C¨æ. A¨Üá 90 ÃÜã.Wæ
+HÄPæ¿ÞWÜÈ¨æ. 150 ÃÜã. CÃÜáÊÜ
+Fo¨Ü ¨ÜÃÜ 250&300 ÃÜã.Wæ ñÜÆá±ÜââÜ ¨Üá
+¯Îcñ,Ü '' Gí¨Üá ÃÝgÂ ÖæãàpæÇ… ÊÜÞÈàPÜÃÜ
+ÓÜíZ GaÜÄc Pæ ¯àw¨æ.
+""AvÜáWæ A¯Æ, ±æpã
+æ ÅàÇ…, wàÓæÇ…
+¸æÇæ HÄPæÀáí¨Ü ñÜñÄ¤Ü Ô ÖæãàX¨æàª Êæ.
+DWÜ PÝËáìPÜ CÇÝTæ¿áá PÝËáìPÜÃÜ
+PÜ¯ÐÜu ÊæàñÜ®Ê
+Ü ®Ü áÜ ° Íæà.60ÃÜÐáÜ r ÖæbÔc ÃÜáÊÜâ¨Üá ŸÃÜÔwÆá Ÿw¨ÜíñÝX¨æ.
+PÝËáìPÜÄWæ ±ÜÄÐÜ¢ñÜ ÊæàñÜ®Ü hÝÄ¿Þ¨ÜÃæ
+23 ÓÝËÃÜ ÃÜã. PæãvÜ¸àæ PÜá. A¨ÜÃÜ gñæWæ
+AÊÜÄWæ ²G´…, Fo, £íw, ÊÜÓ£Ü
+
+ÊÜÂÊÜÓ§æ ÓæàÄ¨Üíñæ ÓÜáÊÜÞÃÜá 30&35 ÓÝËÃÜ
+ÃÜã.ÊÜÃWæ æ ÊæacÜ ñÜWáÜ ÆÈ¨æ. ±ÜÅ£ ÖæãàpæÇ…
+®ÜÈÉ 5&6 PÝËáìPÜÃáÜ CÃÜáñÝ¤Ã.æ CÐÜár
+ÊæàñÜ®Ü PæãorÃæ ®ÜíñÜÃÜ ÖæãàpæÇ… PÜov
+r ¨
+Ü Ü
+¸ÝwWæ, ¯àÃÜá, Ë¨ÜáÂñ… ¹Ç…, ñæÄWæ
+±ÝÊÜ£ CñÝÂ©WÜÚÃÜáñÜÊ
+¤ .æ C¨ÜÃÜ ®ÜváÜ Êæ
+ÖæãàpæÇ… ®ÜvÓæ áÜ ÊÜâ¨Üá ÖæàWæ? ×àWÝX,
+ÓÜÃPÜ ÝÃÜ PÝËáìPÜÃÜ PÜ¯ÐÜu ÊæàñÜ®Ê
+Ü ®Ü áÜ °
+Íæà.25ÃÜÐáÜ r ÖæaÙcÜ Ü ÊÜÞvÜÈ. CÆÉ©¨ÜÃª æ
+ŸÃÜáÊÜ ©®ÜWÙÜ È
+Ü É ÖæãàpæÇ…WÜÙÈ
+Ü É £íw&Fo¨Ü ¸æÇWæ ÙÜ áÜ g®Ü F×ÓÜÇ
+- ÝÃÜÐáÜ r
+GñÜÃ¤ PÜ Ræ iX¿ááñÜÊ
+¤ ,æ '' Gí¨Üá PÜ®ÝìoPÜ
+ÃÝgÂ ÖæãàpæÆáWÜÙÜ ÓÜíZ¨Ü A«ÜÂPÜÒ i.Pæ.
+Íæqr ÓÜÃPÜ ÝÃÜPRæ GaÜÄc Pæ ¯àw¨ÝªÃ.æ
+""PÝËáìPÜÃÜ PÜ¯ÐÜu ÊæàñÜ®ÜÊÜ®Üá° CÚPæ
+ÊÜÞvÜ©¨ÜªÃæ ÖæãàpæÇ…WÜÙÜÈÉ £íw,
+Fo¨Ü ¨ÜÃÜWÜÙÜ®Üá° HÄÓÜáÊÜâ¨Üá ÊÜáñæ¤
+A¯ÊÝ¿áìÊÝWÜáñÜ¤¨æ,''
+Gí¨Üá
+ŸêÖÜñ… ¸æíWÜÙÜãÃÜá ÊÜáÖÝ®ÜWÜÃÜ
+ÖæãàpæÇ… ÊÜÞÈàPÜÃÜ ÓÜíZ¨Ü B«ÜÂPÜÒ
+².Ô. ÃÝÊ… £ÚÔ¨ÜÃÜá.
+
+May your 50th Year be
+just the start of a fabulous
+journey . Wishing you a
+golden 50th filled with
+good health joy and
+prosperity
+
+■ ËPÜ ÓÜá©ªÇã
+æ àPÜ ¸æíWÜÙã
+Ü ÃÜá
+
+PÝ¿áì ¯ÊÜìÖÜOæ ÖæàWæ?
+
+WæãàÆx®… AÊÜÃ…®æãÙÜWæ ÃæãàXWæ bQñæÕ Æ¼ÓÜáÊÜíñæ BÃæãàWÜÂ
+PÜÊa
+Ü Ü BíŸáÂÇæ®…ÕWÙÜ áÜ ±ÜÄOÝÊÜáPÝÄ¿ÞX PæÆÓÜ ÊÜÞvÜÆá
+¨æàÍÜ¨Ç
+Ü àÉæ Êæã¨ÜÆ ¸ÝÄWæ BÃÜí¼ÔÃÜáÊÜ Pæàí©ÅàPÜêñÜ PÜÊÞ
+Ü ív…
+ÊÜáñÜá¤ PÜípæãÅàÇ… ÓæíoÃ…Wæ ÊÜááSÂÊÜáí£Å Ô¨ÜÃª ÝÊÜá¿áÂ
+ÓæãàÊÜáÊÝÃÜ aÝÆ®æ ¯àw¨ÜÃáÜ .
+BÃæãàWÜÂ ÊÜáñÜá¤ PÜáoáíŸ PÜÇÝÂ| CÇÝTæ ÖÜËá¾Pã
+æ íw¨Üª
+ÓÜÊÞ
+Ü ÃÜí»Ü¨È
+Ü É "108 AÃæãàWÜÂ PÜÊa
+Ü Ü Pæàí©ÅàPÜêñÜ PÜÊÞ
+Ü ív…
+ÊÜáñÜá¤ PÜípæãÅàÇ… ÓæíoÃ…' E¨Ý^qÔ ÊÜÞñÜ®Ýw¨Ü AÊÜÃáÜ ,
+""A±Ü[ÝñÜ, ÖæÄWæ, ÖÜê¨¿
+Ü Þ[ÝñÜ ÓæàÄ WÜí¼àÃÜ, QÉÐrÜ BÃæãàWÜÂ
+±ÜÄÔ§£ G¨ÜáÄÓÜáÊÜÊÄÜ Wæ ñÜP|
+ÒÜ bQñæÕ ¨æãÃæ¿á¸æàPÜá. D
+¯qr®È
+Ü É ÃÝgÂ¨ÜÈÉ ÓÜáÊÜÞÃÜá 18 ÊÜÐìÜ WÜÚí¨Ü CÃÜáÊÜ 108
+BíŸáÂÇæ®…Õ ÓæàÊæ¿á®Üá° C®ÜÐ
+° áÜ r ±ÜÄOÝÊÜáPÝÄ¿ÞXÓÜÆá
+PÜÊÞ
+Ü ív… ÊÜáñÜá¤ PÜípæãÅàÇ… ÓæíoÃ… ®æÃÊ
+Ü ÝWÜÈ¨æ. PÜÙ¨
+æ Ü
+Ÿhæp… NãàÐÜO¿
+æ áíñæ D ÊÜÂÊÜÓ§æ ÃÜã²ÓÜÇÝX¨æ,'' Gí¨ÜÃáÜ .
+""WæãàÆx®… AÊÜÃ…®ÜÈÉ bQñæÕ ¨æãÃæñÜ Íæà.80ÃÜÐáÜ r g®ÜÃáÜ
+Ÿ¨ÜáPÜáÚ©¨ÝªÃ.æ iàÊÜ®Ã¾Ü |
+Ü ¨Ü ÖæãàÃÝo¨ÜÈÉ ñÜáñÜáì bQñæÕ
+Öæb®c Ü ÊÜáÖÜñÌÜ Öæãí©¨æ. D ×®æÇ
+° ¿
+æ áÈÉ ÓÝÊÜÞ®ÜÂ g®ÜÄWæ
+WÜá|ÊÜáor¨Ü BÃæãàWÜÂ ÓèÆ»ÜÂ ¯àvÜÆá ÓÜÃPÜ ÝÃÜ Ÿ¨ÜÊ
+œ ÝX¨æ,''
+Gí¨Üá ÖæàÚ¨ÜÃáÜ .
+C®ÜÐ
+° áÜ r ÓÜáÓÜiñj :Ü BÃæãàWÜÂ ÓÜbÊÜ ©®æàÍ… WÜáívÜãÃÝÊ…
+ÊÜÞñÜ®Ýw, ""108 BíŸáÂÇæ®…Õ ÓæàÊæ¿á®Üá° TÝÓÜX¿áÊÜÄWæ
+ÊÜ×ÓÜáÊÜ Ÿ¨ÜÆá ÓÜÃPÜ ÝÃÜÊàæ ¯ÊÜì×ÓÜÆá ¯«ÜìÄÔ
+AñÝÂ«Üá¯PÜ ÊÜÂÊÜÓ§æ AÙÜÊw
+Ü ÓÜÆá £àÊÜÞì¯ÓÜÇÝX¨æ. D
+ÓÜíŸí«Ü ÔíWÝ±ÜâÃÜ ÓæàÄ ÖÜÆÊæv¿
+æ á ÊÜÞ¨ÜÄ ŸWæY A«ÜÂ¿á®Ü
+®ÜvÔæ BÃæãàWÜÂ PÜÊa
+Ü Ê
+Ü ®Ü áÜ ° C®ÜÐ
+° áÜ r ÓÜáÓÜiñj WÜ ã
+æ ÚÓÜÆá
+
+108 Pæàí©ÅàPÜêñÜ PÜÊÜÞív… ÊÜáñÜá¤ PÜípæãÅàÇ… ÓæíoÃ…
+ÇæãàPÝ±ÜìOæWæãÚÔ¨Ü ŸÚPÜ ÔGí Ô¨ÜªÃÝÊÜá¿áÂ AÊÜÃÜá
+A¨ÜÃÜ PÝ¿áìÊæçSÄ ËàQÒÔ¨ÜÃÜá.
+PÝÁãàì®ÜáS
+¾ ÃÝ¨æÊâÜ . Êæã¨ÜÆá aÝÊÜáÃÝg®ÜWÃÜ ,Ü ŸÚPÜ
+ÊæáçÓã
+Ü Ä®ÜÈÉ C¨Ü®áÜ ° ±ÝÅÁãàXPÜÊÝX hÝÄWæ ñÜí¨Üá
+G¨ÜáÃÝ¨Ü ÓÜÊÝÆá, ñÜ±âÜ W³ ÙÜ ®Ü áÜ ° ÓÜÄ±ÜwÔPæãívÜá ÃÝhÝÂ¨ÜÂíñÜ
+ËÓÜÄ¤ ÓÜÇÝX¨æ,'' Gí¨ÜÃáÜ .
+""ÓÜá«ÝÄñÜ ÊÜÂÊÜÓ¿
+§æ áÈÉ BíŸáÂÇæ®…Õ pÝÅÂQíW… ÊÜÂÊÜÓ§æ C¨æ.
+ÃÝgÂ¨Ü GÆÉ BíŸáÂÇæ®…ÕWÙÜ áÜ C¨ÜÃw
+Ü PæÆÓÜ ÊÜÞvÜáñÜÊ
+¤ .æ
+pæÈÊÜá®ÜÓ…, C& ÓÜíiàË¯, ÊÜá×ÙÝ ÊÜáñÜá¤ ÊÜáPÜÙR Ü
+ÓÜÖÝ¿áÊÝ~¿á®Üá° C¨ÜÃã
+æ í©Wæ hæãàwÓÜÇÝX¨Üá,ª
+ÓÝÊÜìg¯PÜ BÃæãàWÜÂ PæàÒ ñÜÅ¨È
+Ü É C¨æãí¨Üá ÊÜáÖÜñ¨
+ÌÜ Ü
+Öæh¿
+jæ ÞX¨æ,'' Gí¨Üá ÖæàÚ¨ÜÃáÜ .
+Ë«Ý®Ü ±ÜÄÐÜñ…®Ü ÊÜááSÂ ÓÜaàæ ñÜPÜ ÓÜÈàí
+AÖÜ¨
+¾ …,
+ÍÝÓÜPÃÜ Ý¨Ü
+GÓ….
+ÓÜáÃæàÍ…PÜáÊÜÞÃ…,
+²Å¿ÞPÜêÐ¡Ü E±ÜÔñ§ ÄÜ ¨ÜÃª áÜ .
+
+Aaditya, Nirmala. P and
+~
+Kusuma R. Prasad
+, o ".
+
+¸æíWÜÙã
+Ü ÃÜá: BÃæãà²¿á ËÃÜá¨Üœ
+¯ÄàûÜOÝ hÝËáà®Üá JÊæá¾ ÊÜáígãÃÝ¨ÜÃæ A¨Üá BÃæãà±Ü±q
+Ü r ÓÜÈPÉ ¿
+æ á
+ŸÚPÜÊäÜ
+ÊÜááí¨ÜáÊÜÄ¿
+- áÈ¨Üá,ª
+ÊÜáígãÃÝ¨Ü ¯ÄàûÜOÝ hÝËáà®Üá
+
+ÃÜ¨ÝªWáÜ ÊÜâ¨ÜPã
+Ü R ÊÜáá®Ü° ®ÝÂ¿ÞíWÜ
+Ÿí«Ü®PÜ ã
+æ ÙR ±
+Ü w
+Ü ÓÜÆá AÊÜPÝÍÜËÆÉ
+Gí¨Üá ÖæçPã
+æ àp…ì ÓÜÐ
+³ ±
+rÜ w
+Ü Ô¨æ.
+¯ÄàûÜOÝ hÝËáà¯¨ÜÃª ã
+Ü , Ÿí«Ü®PÜ Ræ
+B¨æàÎÔ¨Üª ËaÝÃÜOÝ ®ÝÂ¿ÞÆ¿á¨Ü
+
+HITACHI
+&,mt3 .:)idf!F" ~otaoi,.) c,~~136
+~ : L31904KA2019PLC121597
+
+~ - ' is'((leei : sole rnffill, ~ ~ 70/4 01, ~ I ~ ~- oorl~ - !:!60092
+~ ;,:;~ +91 80 6847 3700
+.la,, ~ : www.hitachienergy.com/in
+a -~
+: investors@hitachienergy.com
+
+31/03/2026d
+
+31/03/2 026d
+
+$~~i
+
+~~i
+
+31/03/2025d
+<i!>ii!x:l.l.l..J.d
+~~
+
+2,754.05
+
+8 ,147.71
+
+1,883.68
+
+443.35
+
+1,375.16
+
+246.67
+
+443,35
+
+1,320.92
+
+246,67
+
+330,46
+
+987,84
+
+183.89
+
+32915
+
+988.59
+
+183.09
+
+8.92
+
+8 .92
+
+8 ,92
+
+1. .J.>.w
+
+74,14
+
+221.63
+
+43.15
+
+2 . ~<lld
+
+74.14
+
+221.63
+
+43.15
+
+oodrleh
+
+1
+
+oaoil, ~ 9
+
+2
+
+~ Olcl I l~l ~ l ~ r n 4 , ~~ /
+~~~~
+
+ll!!Ocl<..Ul
+
+~ ~ , 1~, ~ ~ ~
+
+3
+
+( ~ ~ , ~ ~ :?J1)~ ~ )
+~~,1~,~~~
+
+4
+
+l~~,~~:?J1)~~)
+el!~UJ:j;,:!;:bg@oi)QjJ[(~/1~)~
+
+a.!:ldocd I ~ ~ I ee <i!>.loo ~ ~ ;,:!;:bg
+@!ICilQD I ~ ~ J I
+~£9 ~ 2lOtEl1JS
+I~~ ~00 ~ t 2/- c!o.J)
+
+5
+6
+
+~-3 ~ rise! I ~ n/- do..!)
+
+7
+
+iruaalol ;
+
+i.!Je~ /$e~oocis ~~ 20~ 0 SEBI 1 ~ l!xlc;j,\;kleh ~ ai&doct.:!~.ega:i> li!X'l~;inwI oo.iictra.:lscis 3:ld ~
+ruse' ui5!"3eo2!' rlsrl lli~llimd ~,ctra.t.is' i!lram;ru ;:;'~e!rls gi;:ld1:l1ld 1d.!;:;'d ro1Jd1:l1loo. i 4ctra.t.is' mi5ll;ru is-oe!rls
+;,:io~ra, <J!dlil;;;~ olgc' u'5!~eo2!' ~ai<t4w<dsl:! : www.nseindia.com oil~ www.bse india.com cJ>odsil is'o;:;'IIJa:i>
+~e:i<~w': www.hitachienergy.com/ in/en/investor-relations/financial- results ;;j~ ei~oo. ~srl loeCJe:Jild iM i;J.$~cdl
+( QR) ~ ~ ~ p ctraim ~is' acl;di,i ;:;>ei~lli2li!bd:,.
+
+&f.3ela'J ,u@a!IE' ao~crlTe> e9l!JE.k.,•me>
+M>/·
+
+'!ltl
+~
+
+; o1l>o3ll
+; ol:Je 2!5, 2026
+
+ÃÝgÂ¨ÜÈÉ 770ÃÜÐáÜ r 108 ÓæàÄ ÓÜÃPÜ ÝÄ BÓÜñ³ Åæ WÙÜ Ü
+Jí¨Üá ÓÝËÃÜ BíŸáÂÇæ®…ÕWÚÜ Êæ. PÜípæãÅÇ…
+ÓæíoÃ…Wæ ±ÜÅ£¯ñÜÂ 24 WÜípæWÙÜ È
+Ü É ÓÜÄÓÜáÊÜÞÃÜá
+8,500PÜãR A—PÜ PÜÃWæ ÙÜ áÜ ŸÃÜá£¤Ê.æ CÊÜâWÜÙÜ
+¯ÊÜìÖÜOWæ æ 50 ÔàoÃ…WÜÙÜ PÜÊÞ
+Ü ív… ÊÜáñÜá¤
+PÜípæãÅàÇ… ÓæíoÃ… ÃÜã²ÓÜÇÝX¨æ. D ×í¨æ
+108Wæ PÜÃæ ÊÜÞw¨ÜÈÉ ¯SÃÜ ËÙÝÓÜ, PÜÃæ ÊÜÞw¨ÜÊÃÜ Ü
+ËÊÜÃÜ £Ú¿áá£¤ÃÈ
+Ü ÆÉ™. gñæW,æ Ä¿áÇ… pæçí®ÜÈÉ
+ÓæàÊæ J¨ÜXÓÜÆá PæÆ ÓÜÊáÜ ÓæÂWÜÚ¨ÜÊ
+ª âÜ ™. DWÜ
+ÓÜí±Üä|ì ËÊÜÃÜ ÓæíoÃ…®Ü Ôðà®ÜÈÉ Æ»ÜÂÊÝWÜáñÜ¨
+¤ .æ
+AñÜÂíñÜ Wè±ÜÂÊÝX D ËÊÜÃWÜ ÙÜ áÜ CÃÜÈÊæ.
+gñæW,æ GÆÉ 108 BíŸáÂÇæ®…ÕWÚÜ Wæ i²GÓ…
+AÙÜÊw
+Ü ÓÜÇÝX¨Üá,ª Gíwq pÝÂ¸æp
+É …
+J¨ÜXÓÜÇÝX¨æ. ÓæíoÃ… ÔŸºí© ÃæãàX¿á ËÊÜÃÜ
+±Üv¨
+æ áÜ AÊÜÃÜ ÓÜ¯ÖÜ¨Ü 108Wæ ÓÜí¨æàÍÜ
+ÃÜÊÝ¯ÓÜáñÝ¤Ã.æ Gíwq ÊÜáãÆPÜ ÓÜí¨æàÍÜ ÔÌàPÜÄÓÜáÊÜ
+BíŸáÂÇæ®…ÕWÙÜ áÜ Zo®Ý ÓÜÙ§ PÜ Ræ ñæÃÚÜ ÃæãàX¿á®Üá°
+ÓÜËáà±Ü¨Ü ÓÜÃPÜ ÝÄ BÓÜñ³ Åæ Wæ (ÃæãàX Ÿ¿áÔ¨ÜÈÉ
+TÝÓÜX BÓÜñ³ Åæ ) PÜÃ¨
+æ ã
+æ ¿ááÂñÝ¤Ã.æ D ÓÜí¨Ü»ìÜ ¨ÜÈÉ
+ÊÝÖÜ®¨
+Ü Ü ±ÜÅ£ aÜÆ®æ PÜÊÞ
+Ü ív… ÓæíoÃ…®ÜÈÉ
+®æãàvÜŸÖÜá¨Üá. BÓÜñ³ Åæ ¿á ËÊÜÃÜ ÓæàÄ AWÜñÂÜ
+ÓÜãaÜ®æ ¯àvÜÆá PÜãvÜ ÓÝ«ÜÂÊÝWÜÈ¨æ. BŸáÂÇæ®…Õ®ÜÈÃÉ áÜ ÊÜ Êæç¨ÂÜ Qà¿á ÔŸºí© Ÿ¿áÔ¨ÜÈÉ Öæb®c Ü
+®æÃÊ
+Ü ®Ü áÜ ° ñÜgn Êæç¨ÂÜ Äí¨Ü ±Üv¿
+æ ááÊÜ AÊÜPÝÍÜ C¨æ.
+
+»ÜËÐÜÂ
+ÃÝgWÜáÃÜá ¨ÝÌÃÜPÜ®Ý¥…
+
+±ÜÅÍæ:° BÃæãàWÜÂ ÓÜÊáÜ ÓæÂÀáí¨Ü ÊÜááQ¤
+¿ÞÊÝWÜ WÜáÃÜãi?
+
+g®Ü¾ ©®ÝíPÜ: 17.03.1977 ®ÜPÜÒñÜÅ: EñÜ¤ÃÝÐÝyÜ
+
+±ÜÄÖÝÃÜ: PÜáÆ¨æàÊÜÃáÜ ÖÝWÜã PÜáÆWÜáÃÜáWÜÙ®Ü áÜ °
+±ÜäiÔ. ¯ÊÜá¾ Caæ¿
+f áá ±ÜäÃæçÓáÜ ñÜ¨
+¤ .æ ÍÜÄàÃÜ
+ÓÜÓÌ Ê
+§Ü ÝWÜáÊÜâ¨Üá. CÐÜr PÝ¿áìÊÜä Ô©œÓáÜ ÊÜâ¨Üá.
+«Üê£Wæv¸
+Ü àæ w. ¸æ®°Ü ×í¨æ ¨æàÊÜÃáÜ C¨Ýª®.æ
+ÆQÒ$à¾ ®ÜÃÔÜ íÖÜ AÐæãàr ñÜÃ¤ Ü ±ÝÃÝ¿á| ÊÜÞw.
+
+¯àÊÜä ±ÜÅÍæ° PæàÙÜŸÖÜá¨Üá...
+
+ÊÝp…ÕBÂ±… ÓÜíTæÂ: 6366422240
+
+26&05&2026
+
+±ÜÃÝ»ÜÊÜ ®ÝÊÜá ÓÜíÊÜñÃÕÜ Ü
+ÃÝÖÜá PÝÆ:
+ÊÜá. 3.00 & 4.30
+A¿á®Ü: EñÜÃ¤ Ý¿á|.
+WÜáÚPÜ PÝÆ:
+MáñÜá: XÅàÐÜ¾. ÊÜÞÓÜ: A—PÜ
+ÊÜá. 12.00&1.30
+hæÂàÐÜ.u ±ÜP:ÒÜ ÍÜáPÜ.É ÊÜáÙæ ®ÜPñÒÜ ÅÜ :
+¿áÊÜáWÜívÜ PÝÆ:
+Ãæãà×~. ¯ñÜÂ®ÜPñÒÜ ÅÜ : EñÜÃ¤ Ý.
+¸æ. 9.00&10.30
+£¦: HPÝ¨ÜÎ. ÁãàWÜ: Ô©œ.
+ÓÜã¿áì
+ÓÜã¿áì
+PÜÃ|
+Ü : ÊÜ~P….
+E¨Ü¿á:
+AÓÜ:¤
+ÊÝÃÜ: ÊÜáíWÜÙÊÜ ÝÃÜ.
+¸æ. 5.53 ÓÜí. 6.39
+
+GÓ…I ÓæàÄ BÃÜá
+±æäÈàÓÜÃÜ AÊÜÞ®ÜñÜá
+
+■ ËPÜ ÓÜá©ªÇæãàPÜ ÃÝÊÜá®ÜWÜÃÜ (¸æíWÜÙÜãÃÜá ¨ÜQÒ|)
+
+±ÜÅ«Ý¯ ®ÜÃæàí¨ÜÅ Êæãà© AÊÜÃÜ ¸æíWÜÙÜãÃÜá »æàq¿á ÊæàÙæ
+EípÝX¨Üª »Ü¨ÜÅñÝ Çæãà±Ü¨Ü ¸æ®Ü°ÇæÉà DWÜ ¨æãvÜx ÊÜáor¨Ü ÎÓÜá¤
+PÜÅÊÜá PæçWæãÙÜÛÇÝX¨æ. Êæãà© AÊÜÃÜá ÓÜíaÜÄÓÜ¸æàQ¨Üª ÃÜÓæ¤¿á
+±ÜPÜR¨ÜÇæÉà Óæã–àoPÜWÜÙÜá ±Üñæ¤¿Þ¨Ü ±ÜÅPÜÃÜ|PæR ÓÜíŸí—Ô¨Üíñæ
+PÜñÜìÊÜÂÇæãà±Ü BÃæãà±Ü¨Ü ÊæáàÇæ ±æäÈàÓ… ÓÜ¸… C®…Õ±æPÜrÃ…
+ÓæàÄ¨Üíñæ Joár BÃÜá ±æäÈàÓ… ÔŸºí©¿á®Üá° AÊÜÞ®ÜñÜáWæãÚÔ
+B¨æàÍÜ ÖæãÃÜwÓÜÇÝX¨æ.
+±ÜÅ«Ý¯
+¸æíWÜÙÜãÃÜá ¨Üü| iÇæÉ¿á
+±æäÈàÓ… ÊÜÄÐÝu—PÝÄ BÃ….
+Êæãà©
+ÎÅà¯ÊÝÓ… WèvÜ AÊÜÃÜ B¨æàÍÜ¨Ü
+ÓÝWÜáÊÜ
+ÊæáàÃæWæ ±æäÈàÓ… ÓÜ¸… C®…Õ±æPÜrÃ…
+ÊÜ
+Þ
+WÜì¨ÜÈÉ
+¨ÜáWæàìWèvÜ, ÓÜÖÝ¿áPÜ ±æäÈàÓ…
+ÓÜ¸… C®…Õ±æPÜrÃ… ÍÜíPÜÃ… ÊÜáñÜá¤ Óæã–àoPÜ ±Üñæ¤
+±ÜÅPÜÃÜ|
+®ÝÆÌÃÜá
+PÝ®…ÓærŸÇ…WÜÙÜ®Üá°
+AÊÜÞ®ÜñÜáWæãÚÓÜÇÝX¨æ.
+Êæáà 10ÃÜí¨Üá PÜ®ÜPÜ±ÜâÃÜ ÃÜÓæ¤¿á ÓÜËáà±Ü¨Ü AÃÜ|Â ±ÜÅ¨æàÍÜ¨Ü
+±ÜPÜR¨ÜÈÉÃÜáÊÜ ÊÜá~¡®Ü ÃÜÓæ¤Àáí¨Ü 20 Aw ¨ÜãÃÜ¨ÜÈÉ GÃÜvÜá
+iÇæq®… PÜwxWÜÙÜá, BÃÜá «Üã±Ü¨ÜÅÊÜÂ PÜwxWÜÙÜá, Jí¨Üá ¸æíQPÜwx
+±æqrWæ, ÓæÇæãÉà´æà®… pæà±…WÜÙÜá, Jí¨Üá ¸ÝÂoÄ ±ÝÂP…,
+ñÜí£WÜÙÜá ÊÜáñÜá¤ ÓÜQìp… ¸æãàv…ì®Üíñæ PÝ|áÊÜ ÊÜÓÜá¤WÜÙÜá
+PÜívÜáŸí©¨ÜªÊÜâ.
+Bp…ì B´… ÈËíW…®Ü 45®æà ÊÜÐÝìaÜÃÜOæ ÊÜáñÜá¤ A¨ÜÃÜ
+ÓÜíÓÝ§±ÜPÜ ÎÅàÎÅà ÃÜËÍÜíPÜÃ… WÜáÃÜãi AÊÜÃÜ 70®æà ÖÜáoárÖÜŸº¨Ü
+BaÜÃÜOæ¿áÈÉ »ÝWÜÊÜ×ÓÜÆá ±ÜÅ«Ý¯¿áÊÜÃÜá ¸æíWÜÙÜãÄWæ
+»æàq Pæãqr¨ÜªÃÜá. ±ÜÅ«Ý¯ »æàqWæ ÓÜáÊÜÞÃÜá Jí¨ÜãÊÜÃæ WÜípæ
+Êæã¨ÜÆá Óæã–àoPÜWÜÙÜá ±Üñæ¤¿ÞX¨ÜªÊÜâ.
+
+aÝh…ì ñÜ®ÜPÜ ¯ÄàPÜÒOÝ hÝËáà¯Wæ ¸æÇæ ÊÜá¨æãÂà¨ÜÂÊÜá ±ÜÅÊÜááSÃÜ ÓÜÊÜÞÊæàÍÜ¨ÜÈÉ ÓÜbÊÜ £ÊÜÞ¾±ÜâÃÜ »ÜÃÜÊÜÓæ
+
+Best Wishes From
+
+S. R. Prasad. Veena, Yogish.
+
+""ÃÝgÂ¨ÜÈÉ WÝÊæáìíp…Õ ®èPÜÃÜÄWæ ÓÜñÜñÜÊÝX
+A®ÝÂ¿áÊÝWÜáñÜ¤Çæà C¨æ. ÓÜÃÜPÝÃÜ ÖÝWÜã WÝÊæáìíp…Õ
+PÝTÝì®æWÜÙÜ ÊÜÞÈàPÜÃÜá ÊæàñÜ®Ü ñÝÃÜñÜÊÜáÂ
+ÊÜÞvÜá£¤ÃÜáÊÜâ¨ÜÆÉ¨æ, ÊÜá×Ùæ¿áÃÜ®Üá° PæàÊÜÆ ±ÜäÃÜPÜ
+B¨Ý¿á ñÜÃÜáÊÜÊÜÃæí¨Üá ±ÜÄWÜ~ÓÜÇÝX¨æ. B¨ÜÃæ,
+ŸÖÜáñæàPÜ PÜáoáíŸWÜÙÜÈÉ D WÝÊæáìíp…Õ ®èPÜÃÜÃæà
+ÊÜá®æWÜÙÜ®Üá° ®ÜvæÓÜá£¤¨ÝªÃæ,'' Gí¨Üá WÝÊæáìíp…Õ ÊÜáñÜá¤
+pæPÕ…pæçÇ…Õ ÊÜPÜìÃ…Õ ¿áã¯¿á®… (iGqŸãÉ¿áá)®Ü
+A«ÜÂPæÒ Ga….BÃ…. ±ÜÅ£»Ý ÖæàÚ¨ÜÃÜá.
+AÆÉ¨æ, ""ÓÜÃÜPÝÃÜ¨Ü D ñÝÃÜñÜÊÜáÂ©í¨Ü 5 ÆPÜÒPÜãR
+A—PÜ WÝÊæáìíp…Õ ®èPÜÃÜÃÜá ÖÝWÜã AÊÜÃÜ®æ°à ®Üí¹
+Ÿ¨ÜáPÜá£¤ÃÜáÊÜÊÜÄWæ A®ÝÂ¿áÊÝX¨æ. ÓÜ¨ÜÂ PÜ¯ÐÜu ÊæàñÜ®Ü
+18 ÓÝËÃÜ ÃÜã. C¨ÜªÃÜã 13 ÓÝËÃÜ ÃÜã. ÊÜÞñÜÅ
+¯àvÜÇÝWÜá£¤¨æ. ÓÜÃÜPÝÃÜ PÜãvÜÇæà WÝÊæáìíp…Õ
+®èPÜÃÜÄWÜã PÜ¯ÐÜu ÊæàñÜ®Ü ¯WÜ©±ÜwÔ
+ÓÜíPÜÐÜr¨ÜÈÉÃÜáÊÜÊÜÊÜÄWæ ®æÃÜÊÝWÜ¸æàPÜá,'' Gí¨Üá
+AÊÜÃÜá BWÜÅ×Ô¨ÝªÃæ.
+
+BíŸáÂÇæ®…Õ ÓæàÊæ ÊÜáñÜ¤ÐÜár ÓÜá«ÝÃÜOæ
+
+ÖæbcÔ¨æªà C¨ÜPæR PÝÃÜ|
+
+50th Birthday;
+
+D ÊÜá«æÂ, ¯WÜ©ñÜ E¨æãÂàWÜWÚÜ Wæ PÜ¯ÐÜu ÊæàñÜ®¨
+Ü Ü Aí£ÊÜá
+A—ÓÜãaÜ®æ ±ÜÅÎÔ° E¨æãÂàWÜ¨ÝñÜÃáÜ ®ÝÂ¿ÞÆ¿á¨Ü ÊæãÃæ
+ÖæãàWÜáÊÜ ÓÝ«ÜÂñæÀá¨æ. Aí£ÊÜá A—ÓÜãaÜ®¿
+æ áá PÜ®ÝìoPÜ
+ÖæçPã
+æ àp…ì ¯¨æàìÍÜ®Ü ÊÜáñÜá¤ PÝ®Üã¯®Ü ¯¿áÊÜáÊÜ®áÜ ° EÆÉí\
+Ô¨æ Gí¨Üá ÖæàÚÃÜáÊÜ PÜ®ÝìoPÜ E¨æãÂàWÜ¨ÝñÜÃÜ ÓÜíZ,
+ÖæçPã
+æ àp…ì ÊæãÃæ ÖæãàWÜÆá bí£ÓÜá£¤¨.æ
+""Êæã¨ÜÈWæ ÖæçPæãàp…ì®Ü ÊÜááí¨æ PÜÃÜvÜá
+A—ÓÜãaÜ®æ ±ÜÅÎ°ÓÜÇÝXñÜá¤. ®ÝÂ¿ÞÆ¿á Aí£ÊÜá
+A—ÓÜãaÜ®æ ÖæãÃÜwÓÜ¨Üíñæ ñÜvæ ¯àw¨æ. A¨Ü®Üá°
+—PÜRÄÔ A—ÓÜãaÜ®æ ÖæãÃÜwÓÜÇÝX¨æ. GÃÜvÜ®æ¿á¨ÝX ÖæãÓÜ
+ÊæàñÜ®Ü ÓÜí×ñæ hÝÄWæ Ÿí©ÃÜáÊÜâ¨ÜÄí¨Ü PÜ¯ÐÜu ÊæàñÜ®Ü
+¯¿áÊÜá DWÜ hÝÄ¿áÈÉÆÉ, B¨ÜÃÜã ÖÜÙæ¿á ¯¿áÊÜá¨Üw
+ÊæàñÜ®Ü ¯WÜ©±ÜwÔÃÜáÊÜâ¨Üá PÝ®Üã®Üá ¸Ý×ÃÜ.
+ÊÜáãÃÜ®æà¿á¨ÝX ÊæàñÜ®Ü ÖæaÜcÙÜPæR ËÃæãà«ÜËÆÉ. B¨ÜÃæ,
+HPÝHQ Íæà.60ÃÜÐÜár ÖæaÜcÙÜ ÊÜÞvÜáÊÜâ¨ÜÄí¨Ü E¨ÜÂÊÜáWÜÚWæ
+»ÝÄ ÖæãvæñÜ ¹àÙÜÈ¨æ. ÖÝWÝX, ÊÜááSÂÊÜáí£ÅWæ A—
+ÓÜãaÜ®æ ÊÝ±ÜÓ… ±Üvæ¿áÆá ÊÜá®ÜË ÓÜÈÉÓÜÇÝX¨æ,'' Gí¨Üá
+ÓÜíZ¨Ü A«ÜÂPÜÒ ¹.Ô. ±ÜÅ»ÝPÜÃ… £ÚÔ¨ÜÃÜá.
+
+108 Pæàí©‹àPÜêñÜ PÜÊÜÞív… ÊÜáñÜá¤ PÜípæã‹àÇ… ÓæíoÃ…Wæ ÔGí aÝÆ®æ
+
+■ PÝËáìPÜÃÜ PÜ¯ÐÜu ÊæàñÜ®Ü Íæà.60
+
+~ o .
+
+ÖæçPæãàp…ì ÊæãÃæ ÖæãàWÜÆá bíñÜ®æ
+
+¯ñÜÂ
+
+"1x1>oiilew
+'l\il~.S wen,l;Scl> ~ .!>~IL
+~ : 07032076
+
+B¨æàÍÜ ±ÜÅÎÔ° BÃæãà² ÓÜÈÔÉ ¨Üª Aiì ËaÝÃÜOæ
+®ÜvÔæ ¨Ü ®ÝÂ. Ëg¿å…PÜáÊÜÞÃ… G. ±ÝqàÇ…
+AÊÜÄ¨Üª HPÜÓ¨
+Ü ÓÜ ÂÜ ²àsÜ D B¨æàÍÜ ¯àw¨æ.
+AÆÉ¨,æ ""QÅËá®ÜÇ… ±ÜÅPÃÜ |
+Ü Êæäí¨ÜÃÈ
+Ü É JÊæá¾
+ÊÜáígãÃÝ¨Ü ¯ÄàûÜOÝ hÝËáà®Üá, ±ÜÅPÃÜ |
+Ü ¨Ü
+ñÜ¯Tæ ÊÜááX¨Üá BÃæãà±Ü±q
+Ü r ÓÜÈPÉ ¿
+æ Þ¨Ü ŸÚPÜÊäÜ
+ÊÜááí¨ÜáÊÜÄ¿áÈ¨æ. gñæW,æ ¯ÄàûÜOÝ hÝËáà®Üá
+ÊÜáígãÃÝX¨ÜÃª ã
+Ü ÃÝgÂ ÓÜÃPÜ ÝÃÜ CÆÉÊàæ ,
+ÓÜíñÜÅÓ¿
+¤æ á
+±ÜÃÜ
+¯ÄàûÜOÝ
+hÝËáà®Üá
+ÃÜ¨áÜ Wª ã
+æ ÚÓÜáÊÜíñæ PæãàÄ Aiì ÓÜÈÓÉ ©
+Ü ¨ÜÃª ã
+Ü ,
+BÃæãà²¿á®Üá° ÊÜÍPÜ Ræ ±Üv¨
+æ áÜ PæãÙÜáÊ
+Û íÜ ñæ ¯¨æàìÍÜ®Ü
+¯àwÃÜáÊÜ ËaÝÃÜOÝ ®ÝÂ¿ÞÆ¿á¨Ü PÜÅÊáÜ
+PÝ®Üã®Üá¸Ý×ÃÜ,'' Gí¨Üá B¨æàÎÔ¨æ.
+""BÃæãà²Wæ DWÝWÜÇæà ÐÜÃÜñÜá¤Ÿ¨Üœ ¯ÄàûÜOÝ
+hÝËáà®Üá ÊÜáígãÃÝX¨æ. B¨ÜÃæ, DÊÜÃæWÜã
+hÝËáà¯®Ü ÐÜÃÜñÜá¤WÜÙÜ®Üá° EÆÉí\ÔÃÜáÊÜ ÓÜíŸí«Ü
+¿ÞÊÜâ¨æà ÓÝPÝÒ$Â«ÝÃÜWÜÚÆÉ. AÆÉ¨æ, ÃÝgÂ
+ÓÜÃÜPÝÃÜ A¥ÜÊÝ ÓÜíñÜÅÓæ¤¿á ±ÜÃÜ hÝËáà®Üá
+ÃÜ¨Üáª±ÜwÓÜáÊÜ Aiì ÓÜÈÉPæ¿ÞXÆÉ. B¨ÜªÄí¨Ü
+¯ÄàûÜOÝ
+hÝËáà®Üá
+ÃÜ¨ÜáªWæãÚÓÜ¨æ
+BÃæãà²¿á®Üá° Ÿí«Ü®ÜPæR PÜÙÜá×ÔÃÜáÊÜâ¨Üá
+PÝ®Üã®Üá¸Ý×ÃÜ,'' Gí¨Üá £ÚÔñÜá.
+AÆÉ¨æ, ËÍæàÐÜ ®ÝÂ¿ÞÆ¿á¨Ü B¨æàÍÜÊÜ®Üá°
+ÃÜ¨Üáª±ÜwÔ¨Üáª, BÃæãà²¿á®Üá° ¹vÜáWÜvæ
+ÊÜÞvÜ¸æàPÜá
+Gí¨Üá
+B¨æàÎÔÃÜáÊÜ
+®ÝÂ¿ÞÆ¿á, ÃæWÜãÂÆÃ… hÝËáà®Üá Aiì¿á®Üá° PÝ®Üã®Üá ±ÜÅPÝÃÜ ÊÜáÃÜá±ÜÄÎàÈÓÜ¸æàPæíŸ
+Aiì¿á®Üá° ±ÜâÃÜÓÜRÄÔ¨æ.
+
+³ ®
+ÓÜáÔÃ§ Ü ÊÜá¨ÜÂ EñÝ¨
+Ü Wæ æ ¸æíŸÆ
+
+■ ËPÜ ÓÜá©ªÇã
+æ àPÜ ¸æíWÜÙã
+Ü ÃÜá
+
+PÜ®ÝìoPÜÊâÜ ÊÜá¨ÜÂ, BÇæãàR ÖÝÇ… EñÝ³¨®Ü ¿
+æ á
+ÖæãÓÜñ®Ü ¨
+Ü Ü ÖÜ¸… BX ñÜ®°Ü ÓÝ§®Ê
+Ü ®Ü áÜ ° ÊÜáñÜÐ
+¤ áÜ r
+»Ü¨ÅÜ ±w
+Ü ÔPæãíw¨æ. ±ÜÄÓÜÃPÜ Ræ ±ÜäÃÜPÜ (ÓÜáÔ§Ã)Ü
+¸æÙÊ
+Ü ~
+Ü Wæ, ¨æàÎà¿á EñÝ³¨®Ü æ ÊÜáñÜá¤ ¸æíWÜÙã
+Ü Ä¯í¨Ü
+ÖæãÃÜWæ ¹ÅàÊÜÄ ±ÜÄÓÜÃÜ ÊÜÂÊÜÓ¿
+§æ á ËÓÜÃ¤ O
+Ü Wæ æ ÃÝgÂ
+ÓÜÃPÜ ÝÃÜ ÓÜí±Üä|ì ¸æíŸÆ NãàÑÔ¨æ.
+®ÜWÃÜ ¨
+Ü È
+Ü É
+ÓæãàÊÜáÊÝÃÜ
+®Üv¨
+æ Ü
+ÊÜá¨æãÂà¨ÜÂÊÜá¨Ü ±ÜÅÊáÜ áSÃÜ ÓÜÊÞ
+Ü ÊæàÍÜ¨È
+Ü É
+»ÝWÜÊ×
+Ü Ô ÊÜÞñÜ®Ýw¨Ü AŸPÝÄ ÓÜbÊÜ
+BÃ….¹.£ÊÜÞ±
+¾ âÜ ÃÜ, ""ÊÝÂ±ÝÃÜ ÊÜ×ÊÝoá
+ÓÜáÆ»ÜWã
+æ ÚÓÜÆá ÊÜáñÜá¤ ÃÝgÂ¨Ü ÊÜá¨ÜÂ
+EñÝ³¨®Ü Ý ÊÜÂÊÜÓ¿
+§æ á®Üá° ŸÆ±ÜwÓÜÆá
+PÜ®ÝìoPÜ ÓÜÃPÜ ÝÃÜÊâÜ PÜÙ¨
+æ Ü Jí¨Üá ÊÜÐìÜ ¨ÜÈÉ ÊÜáÖÜñ¨
+ÌÜ Ü
+AŸPÝÄ ÊÜáñÜá¤ ¯¿áíñÜÅPÜ ÓÜá«ÝÃÜOWæ ÙÜ ®Ü áÜ ° ñÜí©¨æ,''
+Gí¨Üá £ÚÔ¨ÜÃáÜ .
+""ÇæçÓ®æ …Õ ±ÜÅQÅÁá ÓÜÃÚÜ àPÜÃ|
+Ü , GíBÃ…² ±ÜÄÐÜÃR O
+Ü æ
+ÊÜÂÊÜÓ,§æ wioÇ… A®ÜáÓÜÃO
+Ü æ ÖÝWÜã ÊÝÑìPÜ ±ÜÃÊ
+Ü Ý®ÜX
+®ÜËàPÜÃ|
+Ü ÓÜá«ÝÃÜOWæ ÙÜ Ü ÊÜáãÆPÜ ®ÝÊÜâ ÖæaáÜ c
+±ÝÃÜ¨ÍÜ ìÜ PÜ ÊÜáñÜá¤ ñÜíñÜÅþÝ®Ü B«ÝÄñÜ ÊÜÂÊÜÓ¿
+§æ á®Üá°
+¯ËáìÓÜá£¤¨àªæ Êæ. E¨ÜÂÊÜá¨Ü ©à[ÝìÊÜ— ÖÜãwPæWæ
+±ÜäÃÜPÊ
+Ü ÝX 2030ÃÜÊÃÜ Wæ æ ¯à£ Ô§ÃñÜ ¿
+æ á®Üá° J¨ÜXÓÜÆá
+ÓÜÃPÜ ÝÃÜ Ÿ¨ÜÊ
+œ ÝX¨æ,'' Gí¨Üá »ÜÃÊ
+Ü ÓÜ æ ¯àw¨ÜÃáÜ .
+40,000 Pæãàq ÃÜã. B¨Ý¿á: ""PÜ®ÝìoPÜ ÓÜ¨ÂÜ
+AŸPÝÄ ÓÜáíPÜ¨Ü ÊÜáãÆPÜ ÊÝÑìPÜ ÓÜáÊÜÞÃÜá 40,000
+Pæãàq ÃÜã. B¨Ý¿á WÜÚÓÜá£¤¨.æ C¨Üá ÃÝgÂ¨Ü
+
+B¦ìPÜñ¿
+æ áÈÉ D ûæàñÜÅ¨Ü ±ÝÅÊáÜ áSÂñæ¿á®Üá°
+ñæãàÄÓÜáñÜ¨
+¤ .æ B¨ÜÃæ ®ÜÊáÜ ¾ E¨æàª ÍÜ PæàÊÜÆ B¨Ý¿á
+WÜÚPæ¿áÆÉ. ÓÜáÔ§ÃÜ ¸æÙÊ
+Ü ~
+Ü Wæ ÊÜáãÆPÜ WÝÅÖPÜ ÃÜ áÜ ,
+ÃæçñÃÜ áÜ , EñÝ³¨PÜ ÃÜ áÜ ÊÜáñÜá¤ ÓÜÚ§ à¿á ÓÜÊáÜ ãÖÜPRæ
+±ÜÅÁãàg®ÜÊÝWÜáÊÜ ÓÜÊáÜ ñæãàÈñÜ ÊÜÂÊÜÓ¿
+§æ á®Üá°
+¯ËáìÓÜáÊÜâ¨ÝX¨æ,'' Gí¨Üá ÓÜbÊÜÃáÜ ÓÜÐ
+³ ±
+rÜ w
+Ü Ô¨ÜÃáÜ .
+""BÇæãàR ÖÝÇ… ±ÜÅÊÝÓæãà¨ÜÂÊÜá, ÓÜáÔ§ÃÜ ÊÜá¨ÜÂ
+ñÜ¿ÞÄPæ ÊÜáãÆÓèPÜ¿áì ÊÜáñÜá¤ ñÜíñÜÅþÝ®Ü
+B«ÝÄñÜ EñÝ³¨®Ü ¿
+æ áÈÉ ÃÝgÂPæR A±ÝÃÜ
+AÊÜPÝÍÜWÚÜ ¨Üá,ª ±ÜÄÓÜÃÜ ÓÜíÃÜûO
+Ü Wæ ÝX ¸ÝoÇ…
+ÊÜáÃÜáŸÙÜPæ ÖÝWÜã ñÝÂgÂ ¯àÄ®Ü ÓÜíÓÜÃR O
+Ü Wæ æ
+E¨ÜÂÊÜáWÜÙáÜ B¨ÜÂñæ ¯àvÜáÊÜ AWÜñÂÜ Ë¨æ,''
+Gí¨Üá £ÚÔ¨ÜÃáÜ .
+Cíw¿á®… aæàíŸÃ… B´… PÝÊÜáÓ…ì A«ÜÂûÜ
+ÎÊÜPáÜ ÊÜÞÃ… DÍÜÃÌ ®Ü … ÊÜÞñÜ®Ýw, ""¯àÄ®Ü ÓÜíÃÜûO
+Ü æ
+ÊÜáñÜá¤ Cí«Ü®Ü ¨ÜûñÜ ¿
+æ áá D E¨ÜÂÊÜá¨Ü »ÜËÐÜÂÊÜ®áÜ °
+¯«ÜìÄÓÜÈÊæ. ÊÜá¨ÜÂ¨Ü E¨ÜÂÊÜá¨Ü ¸æÙÊ
+Ü ~
+Ü Wæ¿á
+ÇÝ»ÜÊâÜ ®ÜÊáÜ ¾ WÝÅËáà| »ÝWÜPã
+Ü R ñÜÆá±Ü¸àæ PÜá.
+¹ÅàÊÜÄWÜÚWæ AWÜñÂÜ ËÃÜáÊÜ ¸ÝÈì, «Ý®ÜÂWÜÙáÜ ÊÜáñÜá¤
+ÖÜ|á¡WÙÜ ®Ü áÜ ° ÖæãÃÜX¯í¨Ü ñÜÄÓÜáÊÜ Ÿ¨ÜÆá ®ÜÊáÜ ¨
+¾ àæ
+ÃÝgÂ¨Ü ÃæçñÄÜ í¨Ü ®æàÃÜÊÝX SÄà©ÓÜ¸àæ PÜá. C¨ÜÄí¨Ü
+ÓÜÚ§ à¿á ±ÜäÃæçPæ ÓÜÃ±
+Ü ÚÜ ŸÆWæãÙÜáñÛ ¨
+¤Ü ,æ '' Gí¨ÜÃáÜ .
+gíq AŸPÝÄ B¿ááPÜ¤ÃÜá, ¹ÅàÊÜÃ…WÜÙÜá,
+wÔrÆÄWÜÙÜ ±ÜÅ£¯—WÜÙÜá, ±ÜÄÓÜÃÜ ÓÜáÔ§ÃÜñæ
+ñÜýÃÜá ÖÝWÜã ñÜíñÜÅþÝ®Ü ±ÜäÃæçPæ¨ÝÃÜÃÜá
+ÓÜÊÜÞÊæàÍÜ¨ÜÈÉ »ÝWÜÊÜ×Ô¨ÜªÃÜá.
+
+ÓÝÊÜìg¯PÜÄWæ ÎPÜÒ| ÓÜbÊÜ ÊÜá«Üá ŸíWÝÃÜ±Ü³ ÊÜá®ÜË
+
+ÓÜÃPÜ ÝÄ ÍÝÇæWÙÜ Ü A¼ÊÜê©Wœ æ Pæçhã
+æ àwÔ
+■ ËPÜ ÓÜá©ªÇã
+æ àPÜ ¸æíWÜÙã
+Ü ÃÜá
+
+ÓÜÃPÜ ÝÄ ÍÝÇæWÙÜ Ü A¼ÊÜê©Wœ ÝX PæàÊÜÆ
+ÓÜÃPÜ ÝÃÜ¨Ü A®Üá¨Ý®ÜÊ®Ü à°æ PÝ¿á¨æ,
+ÓÝÊÜìg¯PÜÃáÜ
+ÊÜááPÜÊ
+¤ ÝX
+Pæçhã
+æ àwÓÜÆá ÊÜááí¨æ ŸÃÜ¸àæ PÜá Gí¨Üá
+ÍÝÇÝ ÎPÜ|
+Ò ÊÜáñÜá¤ ÓÝPÜÃÒ ñÜ Ý CÇÝTæ
+ÓÜbÊÜ ÊÜá«Üá ŸíWÝÃÜ±³Ü PÜÃæ ¯àw¨ÜÃáÜ .
+ÓÜÊáÜ WÜÅ ÎûÜ| PÜ®ÝìoPÜ PÜaàæ Ä¿áÈÉ
+ÓæãàÊÜáÊÝÃÜ ËwÁã PÝ®ÜÃ– ®æ …Õ
+ÊÜáãÆPÜ ÎûÜ| CÇÝTæ¿á A—
+PÝÄWÜÙáÜ , ÎûÜPÃÜ áÜ , ±ÝÅíÍÜá±ÝÆÃÜá,
+PæàÒ ñÜÅ ÎPÜO
+Ò Ý—PÝÄWÜÙáÜ ÖÝWÜã GÓ…
+wGíÔ ÓÜ¨ÓÜ ÂÜ Ãæãí©Wæ ÊÜÞñÜ®Ýw¨Ü
+AÊÜÃáÜ , CÇÝTæ¿á ÓÝ«Ü®Wæ ÙÜ áÜ ÊÜáñÜá¤
+ÊÜááíŸÃÜáÊÜ Áãàg®æWÙÜ Ü PÜáÄñÜá
+ÓÜÊáÜ WÜÅ ÊÜÞ×£ ÖÜíbPæãívÜÃáÜ .
+""ÃÝgÂ¨ÜÈÉ 47 ÓÝËÃÜPã
+Ü R ÖæaáÜ c
+ÓÜÃPÜ ÝÄ ÍÝÇæWÚÜ Êæ. ÖÜÙ¿
+æ á Ë¨ÝÂ¦ìWÜÙáÜ , E¨ÜÂËáWÜÙáÜ ÖÝWÜã ¨Ý¯WÜÙáÜ
+"®ÜÊáÜ ¾ ÍÝÇæ ®ÜÊáÜ ¾ gÊÝ¸ÝªÄ'
+Áãàg®æ¿áw B¦ìPÜ ®æÃÊ
+Ü âÜ ¯àvÜáÊÜ
+ÊÜáãÆPÜ ÍÝÇæWÙÜ Ü A¼ÊÜê©Wœ æ Pæçhã
+æ àwÓÜ¸æàPÜá,'' Gí¨Üá ÊÜá®ÜË ÊÜÞw¨ÜÃáÜ .
+
+Pæ²GÓ… ÍÝÇæWÜÚWæ
+ÍÜíPÜáÓÝ§±Ü®æ gã.1PæR
+
+¸æíWÜÙÜãÄ®ÜÈÉ ÓÜbÊÜ ÊÜá«Üá ŸíWÝÃÜ±Ü³ A—PÝÄWÜÙÜ gñæ ÓÜ»æ ®ÜvæÔ¨ÜÃÜá.
+""DWÝWÜÇàæ ÖÜÆÊÜâ ¨Ý¯WÜÙáÜ 500
+ÃÜã.¯í¨Ü ÆPÝÒíñÜÃÜ ÃÜã±ÝÀáWÜÙÊ
+Ü ÃÜ Wæ æ
+¨æà~Wæ ¯àvÜá£¤¨ÝªÃ.æ D ÖÜ|ÊÜ®áÜ °
+ÍÝÇæWÙÜ È
+Ü É ÓÝ¾p…ì qË, BÃ…J
+±ÝÉíp…, ÍèaÝÆ¿á ¯ÊÜÞì|, ´ÝÂ®…
+ÊÜáñÜá¤ ÇÝÂ¸… E±ÜPÃÜ |
+Ü WÜÙ®Ü áÜ ° J¨ÜXÓÜÆá ŸÙÜÔPæãÙÜÇ
+Û ÝWÜá£¤¨,æ '' Gí¨ÜÃáÜ .
+ÖÜŸ¨
+º Ü ÊÝñÝÊÜÃ|
+Ü ¯ËáìÔ: ""ÖæãÓÜ
+ÍæçP~
+ÒÜ PÜ ÊÜÐìÜ ¨Ü BÃÜí»ÜÊ®Ü áÜ ° ÖÜŸ¨
+º Ü
+Äà£¿áÈÉ
+BaÜÄÓÜÆá
+Ô¨Üñœ æ
+ÊÜÞwPæãÙÜ¸
+Û àæ PÜá. Êæáà 29, 30 ÊÜáñÜá¤
+31ÃÜí¨Üá ÍÝÇÝ BÊÜÃ|
+Ü ÊÜ®áÜ °
+ÓÜa
+Ì WfÜ ã
+æ ÚÓÜ¸àæ PÜá. ñÜÚÃÜá ñæãàÃÜ| PÜqr
+gã. 1ÃÜí¨Üá ÍÝÇæWæ ŸÃÜáÊÜ ÊÜáPÜÙR ®Ü áÜ °
+
+ÓÝÌW£Ü ÓÜ¸àæ PÜá. ¨Ý¯WÜÙáÜ , ®ÝWÜÄPÜ
+Êæà©PæWÙÜ áÜ , GÓ…wGíÔ ÖÝWÜã
+ÖÜÙ¿
+æ á Ë¨ÝÂ¦ìWÜÙáÜ Pæçhã
+æ àwÔ
+ÊÜáPÜÚR Wæ ËÍæàÐÜ Fo¨Ü ÊÜÂÊÜÓ§æ
+ÊÜÞvÜáÊÜ ÊÜáãÆPÜ AÊÜÃÈ
+Ü É ÍÝÇæWæ
+ŸÃÜáÊÜ EñÝÕÖÊ
+Ü ®Ü áÜ ° ÖæbÓc ¸
+Ü àæ PÜá,''
+Gí¨Üá PÜÃæ ¯àw¨ÜÃáÜ .
+¨ÝSÇÝ£
+ÖæbÔc :
+""TÝÓÜX
+ÍÝÇæWÚÜ XíñÜ AñÜáÂñÜÊ
+¤ áÜ ÖÝWÜã ®ÜáÄñÜ
+ÎûÜPÃÜ áÜ ÓÜÃPÜ ÝÄ ÍÝÇæWÙÜ È
+Ü ¨
+É ÝªÃæ
+GíŸá¨Ü®áÜ ° ±æäàÐÜPÄÜ Wæ ÊÜá®ÜÊÄÜ Pæ
+ÊÜÞw Ë¨ÝÂ¦ìWÜÙÜ ¨ÝSÇÝ£ ÓÜíTæÂ
+ÖæbÓc ¸
+Ü àæ PÜá. ÍÝÇæWÙÜ È
+Ü É ËÍæàÐÜ
+ñÜÃWÜ £Ü WÜÙ®Ü áÜ °
+®ÜvÓæ Æ
+Ü á
+
+ÃÝgÂ¨Ü ÓÜÃPÜ ÝÄ ÍÝÇæWÙÜ Ü
+ÓÜŸÈàPÜÃ|
+Ü ÊÜáñÜá¤ WÜá|ÊÜáor¨Ü
+ÎPÜ|
+Ò WÜáÄÁãí©Wæ
+BÃÜí¼ÓÜá£¤ÃáÜ ÊÜ ®ÜãñÜ®Ü PÜ®ÝìoPÜ
+±Ü¹PÉ … ÍÝÇæWÙÜ Ü (Pæ²GÓ…)
+PÜov
+r WÜ ÚÜ Wæ ÊÜááSÂÊÜáí£Å
+Ô¨ÜÃª ÝÊÜá¿áÂ™ÖÝWÜã wÔGí w.Pæ.
+ÎÊÜPáÜ ÊÜÞÃ… AÊÜÃáÜ gã®…
+1ÃÜí¨Üá ÎÊÜÊã
+æ WÜ¨
+Y È
+Ü É ÍÜíPÜÓÝ§±®Ü æ
+®æÃÊ
+Ü àæ ÄÓÜÈ¨ÝªÃæ Gí¨Üá ÓÜbÊÜ
+ÊÜá«Üá ŸíWÝÃÜ±³Ü £ÚÔ¨ÜÃáÜ .
+
+A®ÜáPÜãÆÊÝWÜáÊÜíñæ
+ÓÜÃPÜ ÝÄ
+ÍÝÇæWÚÜ Wæ EbñÜ Ë¨ÜáÂñ… PÜÈÓ³ Ç
+Ü ÝX¨æ.
+WÜá|ÊÜáor¨Ü ÎPÜ|
+Ò ¨æãí©Wæ ÊÜáPÜÙR Ü
+»ÜËÐÜÂ ÃÜã²ÓÜáÊÜ D ÊÜáÖÜñ¨
+ÌÜ Ü
+PÝ¿áì¨ÜÈÉ ÎPÜPÒ ÃÜ áÜ , ±æäàÐÜPÃÜ áÜ , GÓ…
+wGíÔ ÓÜ¨ÓÜ ÂÜ ÃÜá ÖÝWÜã ÓÜÊáÜ á¨Ý¿á
+Êæà©PæWÙÜ áÜ JpÝrX ÍÜÅËáÓæãà|,''
+Gí¨Üá ÖæàÚ¨ÜÃáÜ .
+
+Published for the Proprietors, Metropolitan Media Company Limited, by Lokesh K V at No. 74/2, Sanjana Plaza, 4th & 5th Floor, Elephant Rock Road, Jayanagar 3rd block, Bengaluru560011. (Ph: 08040877666) and printed by him at Bennett Coleman & Co Ltd., The Times of India Press, No. 9/10/11A, 4th Main, KIADB Bommasandra Industrial Area, Anekal Taluk,
+Bangalore 560 099 (Ph: 08042200500) Regd. Office: No. 74/2, Sanjana Plaza, 4th & 5th Floor, Elephant Rock Road, Jayanagar 3rd block, Bengaluru560011 (Ph: 08040877666), Editor: Sudarshan Channangihalli – responsible for selection of news under PRB Act. ©All Rights Reserved. Reproduction in whole or in part without written permission is prohibited.
+
+RNI No. 71653/99
+Vol. 27 Issue No.145
+

@@ -1,0 +1,1330 @@
+HITACHI
+May 26, 2026
+
+The Secretary,
+Listing Department,
+BSE Limited,
+1st Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+Scrip Code: 543187
+
+The Manager,
+Listing Department,
+National Stock Exchange of India Limited,
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+Scrip Symbol: POWERINDIA
+
+Subject: Analysts/Investors’ Presentation
+Dear Sir / Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are
+enclosing herewith a copy of Presentation to be made during the conference call with Analysts/Investors as scheduled
+today i.e., May 26, 2026, for the information of the Stock Exchanges.
+The above information is also hosted on the website of the Company at:
+
+https://www.hitachienergy.com/in/en/investor-relations/analyst-section.
+Kindly take the same on your records.
+Thank you,
+Yours faithfully,
+For Hitachi Energy India Limited
+
+AMMATANDA
+CHINNAPPA
+POOVANNA
+
+Digitally signed by AMMATANDA
+CHINNAPPA POOVANNA
+Date: 2026.05.26 11:32:54 +05'30'
+
+Poovanna Ammatanda
+General Counsel and Company Secretary
+
+Encl.: as above
+
+Hitachi Energy India Limited
+Registered and Corporate Office:
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru - 560 092
+Email ID: investors@hitachienergy.com
+Phone: 080 68473700
+CIN: L31904KA2019PLC121597
+hitachienergy.com/in
+
+Hitachi Energy India Ltd
+
+Q4 FY25-26 | Analyst Conference Call
+N Venu, Managing Director & CEO
+
+Symbol: POWERINDIA Scrip code: 543187
+
+Internal
+
+May 2026
+
+HITACHI
+
+Cautionary statement
+This presentation has been prepared solely for information purposes. No representation or warranty, express or implied, is made
+regarding the accuracy, completeness, or correctness of the information or opinions contained herein, and no reliance should be
+placed on them. Neither the Company nor its affiliates, advisers, or representatives shall be liable for any loss arising from the
+use of this presentation or its contents.
+This presentation may contain forward-looking statements based on current expectations, estimates and projections, including
+those relating to the business outlook of Hitachi Energy India Limited (“Hitachi Energy India”). Forward-looking statements can
+be identified by terms such as “expects,” “believes,” “estimates,” “targets,” “plans,” or similar expressions. Actual results may
+differ materially due to risks and uncertainties beyond the Company’s control, including economic conditions, regulatory
+changes, market acceptance of products, compliance-related costs, currency fluctuations, and other factors disclosed in the
+Company’s filings with the Stock Exchanges and SEBI.
+Information is current only as of the date of this presentation and may be modified without prior notice. This communication does
+not constitute an offer, invitation or recommendation to purchase or subscribe to any securities, nor shall it form the basis of any
+contract. Investments in securities involve risks, including possible loss of principal. Viewers should seek independent
+professional advice before making investment decisions.
+
+2
+
+HITACHI
+
+License to operate: Safety
+HSE performance in FY26 vis-à-vis past years
+
+Health initiatives during Q4FY26
+
+Total recordable injury frequency rate
+0.14
+0.12
+0.10
+
+FY20
+
+0.09
+
+0.09
+
+0.08
+
+FY21
+
+0.11
+
+FY22
+
+FY23
+
+FY24
+
+I
+FY25
+
+Awards during FY26
+
+Health related sessions and workshops
+FY26
+
+• First Aid and Basic Life Support trainings
+• Occupational health sessions incl. Ergonomics
+• Bone mineral density, eye screening, general health
+screening
+
+~-;..-
+
+''"""'"'
+
+• Awareness sessions - cancer, substance abuse
+
+r
+' ""''" "' "'' "" i--
+
+~ -~-- -..:=1
+·-·
+3
+
+.
+
+~~~
+
+~
+
+• Medical mock drills
+• Occupational health sessions incl. Mental Health
+
+ESG targets and action plan
+
+ESG targets FY26
+CO2 Emissions:
+50% reduction along the value chain
+Renewable Electricity:
+100% in operations
+Water:
+25% reduction in freshwater use
+Waste:
+50% reduction in waste disposed
+to landfill or incineration
+Safety:
+Zero harm - zero fatalities and
+serious injuries
+Diversity:
+Increase female diversity from
+5.8% to 16-18%
+
+4
+
+Corruption:
+Zero incidents of corruption and
+bribery
+
+HITACHI
+
+Actions and achievements against targets
+CO2 Emissions: ~74% reduction achieved in FY26
+from 2019. Actions include biofuel boiler in Mysore,
+electrical retrofits, PPA for renewable electricity
+Renewable Electricity: 100% in operations through
+rooftop solar, PPA and I-RECs
+Water: 11% reduction in FY26. Water recycled, water
+efficient fixtures and retrofits to reduce consumption.
+Halol achieved Water Positive Index Certificate
+Waste: 82% reduction achieved in FY26 and 99%
+recycled. Halol & Mysore achieve Zero Waste to
+Landfill – Platinum certification
+Safety: Zero fatality. Leadership trained in HSE
+Masterclass, frontline supervisors in HSE Leadership
+development program, HSE internal audits and selfassessments
+Diversity: 10% at the end of FY26
+Corruption: Committed to zero incidents of integrity
+
+ESG Ratings
+
+NSE
+Sustainability
+Ratings &Analytics
+
+“62 Adequate” in FY26
+
+Crisil
+ESGRatings
+&Analytics
+
+61 "Strong" in FY26
+
+Structural transformation and investments strengthen the sector
+Energy security1 is emerging as a
+structural, policy driven investment in
+India, shifting focus to resilience, selfreliance
+and
+reduced
+import
+dependence amid rising demand and
+geopolitical risks.
+
+India’s electricity requirements2 to
+grow materially over the coming
+decade, driven by structural
+electrification, industrial growth,
+rising appliances, data centers,
+energy
+storage
+and
+EV
+penetration.
+
+Higher3 loads and load density,
+stringent reliability requirements,
+increasingly
+complex
+grid
+architectures, and longer-duration
+power needs associated with AI
+workloads will require systemwide capacity and infrastructure
+expansion. .
+
+As
+technology
+becomes
+increasingly crucial for achieving
+a carbon-neutral energy system,
+the ‘R&D Roadmap to Enable
+India’s Net Zero Targets through
+Carbon Capture, Utilization and
+Storage
+(CCUS)’
+has
+been
+launched.
+
+Renewables
+
+Transmission
+
+Industry
+
+Data Centre
+
+Transport
+
+Distribution
+
+The International
+Finance Corporation
+(IFC) plans to scale
+up its annual
+investments5 in
+India to Rs 92,000
+Cr by 2030
+
+Rs 7.93 Lakh Cr
+investment6 for
+integration of 900
+GW Non-Fossil
+capacity by 2035
+announced at the
+BES-2026
+
+To support
+industrial expansion
+Govt. has raised
+capital expenditure7
+from Rs 3.1 Lakh Cr
+in 2019 to Rs 11.2
+Lakh Cr in 2026
+
+Current
+investment(FY26) in
+the data center8
+space in India is Rs
+6.5 Lakh Cr and a
+further
+announcement of
+Rs 8.3 Lakh Cr done
+
+India’s EV sector
+attracted Rs 2.23
+Lakh Cr from 2020
+to 2025 which is
+only 18% of the
+estimated
+investment9 by
+2030
+
+DISCOMs recorded
+profit of over Rs
+2,701 Cr in 2024-25
+with AT&C losses10
+dropping to 15% in
+FY-25 vs 22.6% in
+FY-14
+
+5
+1, 2. Energy Security by Capital 36 One 3. IDBI Capital Report 4. R&D Roadmap to enable India's Net Zero Targets through Carbon Capture, Utilization and Storage (CCUS) launched | Department Of Science & Technology 5.
+Renewables 6. Transmission 7. Industry 8. Data center 9. Transport 10. Discoms
+
+HITACHI
+
+Solid performance driving growth and building margins
+Rs Crs
+
+Growth
+YoY(%)
+
+Growth
+QoQ (%)
+
+FY25
+
+FY26
+
+Growth YoY(%)
+
+2,422.5
+
+10.6%
+
+-2.2%
+
+18,173.8
+
+18,456.5
+
+1.6%
+
+2,754.1
+
+46.2%
+
+32.3%
+
+6,384.9
+
+8,147.7
+
+27.6 %
+
+79.7%
+
+10.3%
+
+516.4
+
+1,375.2
+
+166.3%
+
+79.7%
+
+27.5%
+
+516.4
+
+1,320.9
+
+155.8%
+
+330.5
+
+79.7%
+
+26.4%
+
+384.0
+
+987.8
+
+157.3%
+
+~
+Op. EBITDA 16.4%
+~ (%)
+
+92.0%
+
+33.7%
+
+592.3
+
+1,252.6
+
+111.5%
+
+9.3%
+
+15.4%
+
+1,650.6
+
+1,746.3
+
+Particulars Q4FY26
+
+@l
+Orders
+
+<
+
+Revenue
+PBT
+(before
+443.4
+Exc. Items)
+
+~
+~ PBT (after 443.4
+Exc. Items)
+
+~ PAT
+Op.
+EBITDA
+
+~
+@l
+6
+
+452.4
+
+OCF
+
+OBL
+
+At the end of
+Mar-25
+
+19,245.9
+
+At the end of
+Mar-26
+
+29,555.3
+Internal
+
+t
+t
+t
+t
+
+Orders in Q4FY26
+Industries: Control & protection upgrade using
+MACH, 400/200 KV AIS in Karnataka
+Data Centers: 3X 220kV AIS Transformers Bay
+extension for a leading data center at Hyderabad
+Utility: 72.5 KV DS for a giant IT company at U.S.A
+Renewables: 90 X 3150 kVA dry type transformer
+from a leading renewable company at West, India.
+
+3 X 110 MVA, 400 kV & 1 X 85 MVA, 66 kV
+transformer for a Solar park in Angola
+
+t
+53.6%
+
+t
+
+Transport: 70 units traction transformers for metro
+rail in South and 80 transformer for metro rail in
+western India
+
+HITACHI
+
+Commissioning across the renewable and utility segment
+Commisioning of Mumbai
+city infeed HVDC 1000MW
+VSC Project
+
+Transformer for the
+leading utility at Ramgarh
+and Bhiwani
+
+Renewable Substation at
+Shiv Barmer Rajasthan
+
+Transformer at Jamnagar
+for a leading O&G
+company
+
+• Design ,engineering Supply,
+
+• 500 MVA, 765/400/33 kV, ICTs
+
+Scope includes design,
+
+174 MVA, 220/33 kV Power
+
+erection and Commissiong of
+
+- 03 nos. commissioned at
+
+engineering, manufacturing, testing
+
+Transformers – 02 nos.
+
+HVDC converter stations at Aarey
+
+Ramgarh.
+
+at works, packaging, loading and
+
+commissioned at Jamnagar
+
+and Kudus for +/- 320 KV 1x1000
+MW Voltage Source Converter
+(VSC) based HVDC project
+
+• 500 MVA, 765/400/33 kV, ICTs
+
+- 03 nos. commissioned at
+Bhiwani.
+
+transportation, transit insurance up
+to project site, supply and erection
+of 400kV Sub-Station
+.
+
+7
+
+Leading the thought leadership voice across the industry
+
+8
+
+India Energy Week 2026
+
+Summit on AI and
+Electric Energy
+
+AI Impact Summit
+
+The event brought together
+various leaders in the sector
+enabling global partnerships that
+are shaping the next era of
+energy progress
+
+Pre-summit event on “AI and
+Electric Energy: Complementing
+for a Sustainable and Resilient
+Future,” enabling dialogue with
+policymakers,
+academia,
+and
+stakeholders on advancing the
+next phase of AI
+
+Leaders spoke at a NAMTECH
+roundtable
+on
+“AI
+for
+Manufacturing
+Engineering
+&
+Technology,” driving discussions
+on AI-led innovation for intelligent
+and sustainable manufacturing
+
+Internal
+
+HITACHI
+
+Bharat Electricity Summit
+
+Hosted key ministers, regulators,
+and global leaders at the Hitachi
+Energy pavilion, inaugurated by
+Union Minister Sh. Manohar Lal,
+highlighting our role in India’s
+energy landscape
+
+HITACHI
+
+Order growth across sectors fuelled FY26 performance
+Key Segments
+
+Growth
+
+'t
+
+~
+b
+
+~---------,!.-----+----------=----------------1
+
+IF~~
+
+Data Center
+
+Transmission
+Industries
+
+t
+t
+t
+
+~-----2...__----+-------------1
+
+~ Railway and Metro
+[!!B Renewables
+(Wind & Solar)
+
+Order Mix
+
+Segment
+45%
+
+53%
+
+51%
+
+41%
+
+11 I I __ :
+
+FY25
+
+3%
+
+Product
+
+Project
+
+5%
+
+FY26
+
+Service
+
+Sector
+
+81% 85%
+
+II __ __ :
+9%
+
+Utilities
+
+10% 7%
+
+9%
+
+Industries
+
+Channel
+
+FY25
+FY26
+
+Transport &
+Infra
+
+85%
+75%
+
+II __ __ __:
+
+FY25
+
+Internal
+
+9
+
+DEU
+
+14%
+
+6% 9%
+
+7%
+
+EPC
+
+OEM
+
+2% 1%
+
+Dis
+
+FY26
+
+HITACHI
+
+Additional capex of
+Rs 2,000* crore
+to set up, in addition to
+others, a greenfield large
+power transformer facility in
+Karjan, Vadodara, Gujarat
+taking cumulative capex to
+Rs 4,000 crore
+
+10
+
+* In October 2024, we announced Rs 2,000 Crs and now additional capex of Rs 2,000 Crs leading to Rs 4,000 Crs
+
+HITACHI
+
+Financial performance
+
+Rs Crores
+
+Particulars
+
+Q4FY26
+
+Q4FY25
+
+YoY%
+
+Q3FY26
+
+QoQ%
+
+FY26
+
+FY25
+
+Orders
+
+2,422.5
+
+2,190.8
+
+10.6%
+
+2,477.6
+
+-2.2%
+
+18,456.5
+
+18,173.8
+
+Revenue from operations
+
+2,754.1
+
+1,883.7
+
+46.2%
+
+2,082.2
+
+32.3%
+
+8,147.7
+
+6,384.9
+
+PBT before exceptional item
+
+443.4
+
+246.7
+
+79.7%
+
+402.0
+
+10.3%
+
+1,375.2
+
+516.4
+
+PBT margin before exceptional item %
+
+16.1%
+
+13.1%
+
+16.9%
+
+8.1%
+
+PBT
+
+443.4
+
+246.7
+
+1,320.9
+
+516.4
+
+PBT margin %
+
+16.1%
+
+13.1%
+
+16.2%
+
+8.1%
+
+PAT
+
+330.5
+
+183.9
+
+987.8
+
+384.0
+
+PAT Margin %
+
+12.0%
+
+9.8%
+
+12.1%
+
+6.0%
+
+Op EBITDA*
+
+452.3
+
+235.6
+
+1,252.5
+
+592.3
+
+Op EBITDA %
+
+16.4%
+
+12.5%
+
+15.4%
+
+9.3%
+
+19.3%
+79.7%
+
+347.8
+
+27.5%
+
+16.7%
+79.7%
+
+261.4
+
+26.4%
+
+12.6%
+92.0%
+
+338.4
+16.3%
+
+33.7%
+
+*Margins are calculated as percent of revenue from operations. The Company evaluates profitability based on Operational EBITDA. Operational EBITDA represents income from operations excluding (i) amortization expense on
+intangibles, (ii) restructuring and restructuring-related expenses, (iii) non-operational pension cost, (iv) gains and losses from the sale of businesses, acquisition-related expenses, and certain non-operational items, (v) foreign
+exchange/commodity timing differences in income from operations consisting of (a) unrealized gains and losses on derivatives (foreign exchange, commodities, embedded derivatives), (b) unrealized foreign exchange movements
+on receivables/payables (and related assets/liabilities) and (vi) Depreciation expenses on tangibles assets.
+11
+
+Financial Result Analysis
+
+HITACH
+Rs Crores
+
+Particulars
+
+INCOME
+Revenue from operations
+
+3 months ended
+31.12.2025
+
+3 months ended
+31.03.2025
+
+Crs
+
+%
+
+Crs
+
+%
+
+Crs
+
+%
+
+2,754.1
+
+100.0%
+
+100.0%
+
+Year ended
+01/04/2025 to
+31/03/2026
+Crs
+%
+
+Year ended
+01/04/2024 to
+31/03/2025
+Crs
+%
+
+8,147.7
+
+6,384.9
+
+2,082.2
+
+100.0%
+
+1,883.7
+
+57.4
+
+2.1%
+
+61.8
+
+3.0%
+
+18.2
+
+1.0%
+
+239.9
+
+-
+
+0.0%
+
+24.0
+
+1.2%
+
+19.9
+
+1.1%
+
+Total income
+
+2,811.4
+
+102.1%
+
+2,168.0
+
+104.1%
+
+1,921.9
+
+Expenses
+Material costs
+
+Other income
+Exchange & commodity gain
+
+100.0%
+1_____ /
+
+100.0%
+
+2.9%
+
+18.6
+
+0.3%
+
+-
+
+0.0%
+
+38.6
+
+0.6%
+
+102.0%
+
+8,387.6
+
+102.9%
+
+6,442.1
+
+100.9%
+62.1%
+
+1,738.1
+
+63.1%
+
+1,259.7
+
+60.5%
+
+1,183.0
+
+62.8%
+
+4,874.2
+
+59.8%
+
+3,965.7
+
+Personnel expenses
+
+174.1
+
+6.3%
+
+167.7
+
+8.1%
+
+144.4
+
+7.7%
+
+642.8
+
+7.9%
+
+544.8
+
+8.5%
+
+Other expenses
+
+394.1
+
+14.3%
+
+309.5
+
+14.9%
+
+318.3
+
+16.9%
+
+1,374.4
+
+16.9%
+
+1,278.7
+
+20.0%
+
+Exchange & commodity loss
+
+31.5
+
+1.1%
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+4.1
+
+0.1%
+
+-
+
+0.0%
+
+Depreciation
+
+26.9
+
+1.0%
+
+26.6
+
+1.3%
+
+23.5
+
+1.2%
+
+104.3
+
+1.3%
+
+91.4
+
+1.4%
+
+Finance costs
+
+3.4
+
+0.1%
+
+2.5
+
+0.1%
+
+6.0
+
+0.3%
+
+12.8
+
+0.2%
+
+45.2
+
+0.7%
+
+2,368.1
+
+84.2%
+
+1,766.0
+
+84.8%
+
+1,675.2
+
+88.9%
+
+7,012.5
+
+86.1%
+
+5,925.7
+
+92.8%
+
+443.4
+
+16.1%
+
+402.0
+
+19.3%
+
+246.7
+
+13.1%
+
+1,375.2
+
+16.9%
+
+516.4
+
+8.1%
+
+-
+
+0.0%
+
+54.2
+
+2.6%
+
+-
+
+0.0%
+
+54.2
+
+0.7%
+
+-
+
+0.0%
+
+Profit before tax
+
+443.4
+
+16.1%
+
+347.8
+
+16.7%
+
+246.7
+
+13.1%
+
+1,320.9
+
+16.2%
+
+516.4
+
+8.1%
+
+Tax expense
+
+112.9
+
+4.1%
+
+86.4
+
+4.1%
+
+62.8
+
+3.3%
+
+333.1
+
+4.1%
+
+132.4
+
+2.1%
+
+Profit for the quarter / year
+
+330.5
+
+12.0%
+
+261.4
+
+12.6%
+
+183.9
+
+9.8%
+
+987.8
+
+12.1%
+
+384.0
+
+6.0%
+
+Total expenses
+Profit before exceptional items
+Excep. Item - Impact of labor codes
+
+12
+
+3 months ended
+31.03.2026
+
+\
+
+1- - - -
+
+HITACHI
+
+Priorities
+Markets
+Maintain leadership in core segments –
+Renewables, Utilities, HVDC, Industries
+and Infrastructure.
+Harness new segments – such as data
+centers, BESS and expand at the edge
+Focus and drive exports, service and
+digital
+
+13
+
+Business
+
+Function
+
+Strong Focus on BU service
+
+Reinforce safety culture
+
+Operational excellence to improve
+productivity, quality & usage of AI
+
+Cost Focus
+
+Delivering on a strong backlog for
+revenue & margin
+
+Upskill & cross-skill talent for agile
+energy transition
+Build capacities for future growth
+
+Capacity Expansions
+
+Thank you
+For further information, please contact:
+Priyanka Bhagat, Investors Relation
+priyanka.bhagat@hitachienergy.com
+
+Follow us
+
+14
+
+Internal
+
