@@ -1,6 +1,6 @@
 {
   "slug": "hitachi-energy-india",
-  "updatedAt": "2026-05-25T16:15:57.641Z",
+  "updatedAt": "2026-05-26T04:57:30.783Z",
   "documents": [
     {
       "id": "ar-2025",
@@ -101,10 +101,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d611053e-a597-4ea2-833e-d3fb2809c66c.pdf"
       ],
       "textFile": "ann-81a2ef3a-2e45-4e3f-bd9f-3e00f29b0d63.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d611053e-a597-4ea2-833e-d3fb2809c66c.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-1f21a0f8-37bc-4720-910a-7f9a074010f3",
@@ -118,10 +116,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a7270e2c-1ce8-4499-9611-81a24c903b13.pdf"
       ],
       "textFile": "ann-1f21a0f8-37bc-4720-910a-7f9a074010f3.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a7270e2c-1ce8-4499-9611-81a24c903b13.pdf",
-      "pdfBytes": 1251193,
-      "textChars": 13684
+      "status": "cached",
+      "textChars": 13700
     },
     {
       "id": "ann-e70181a1-e80e-4971-845f-d95ba5e31c1d",
@@ -135,10 +131,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d81c9c-a5bb-4172-a46a-e0f986554e24.pdf"
       ],
       "textFile": "ann-e70181a1-e80e-4971-845f-d95ba5e31c1d.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b4d81c9c-a5bb-4172-a46a-e0f986554e24.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-45e9bf2d-d304-40de-9909-a4e57277289b",
@@ -152,10 +146,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d0cf97eb-1de2-42ff-ba3f-80e735425236.pdf"
       ],
       "textFile": "ann-45e9bf2d-d304-40de-9909-a4e57277289b.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d0cf97eb-1de2-42ff-ba3f-80e735425236.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-8bfcc79c-30dc-45c4-a43b-40e920ef910c",
@@ -169,10 +161,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/66078725-013c-4621-aef0-b975a90f7c58.pdf"
       ],
       "textFile": "ann-8bfcc79c-30dc-45c4-a43b-40e920ef910c.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/66078725-013c-4621-aef0-b975a90f7c58.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-e614f470-e139-4d36-bf00-15b880fb840d",
@@ -186,10 +176,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5585ffbb-ce71-40a2-abf5-ca9f46572e7e.pdf"
       ],
       "textFile": "ann-e614f470-e139-4d36-bf00-15b880fb840d.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5585ffbb-ce71-40a2-abf5-ca9f46572e7e.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-a449e3ec-cfab-46d6-a691-47d0def7cb9d",
@@ -203,10 +191,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a2ac3ca-c8c8-42a0-8440-1070211da342.pdf"
       ],
       "textFile": "ann-a449e3ec-cfab-46d6-a691-47d0def7cb9d.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a2ac3ca-c8c8-42a0-8440-1070211da342.pdf",
-      "pdfBytes": 5535856,
-      "textChars": 45007
+      "status": "cached",
+      "textChars": 45109
     },
     {
       "id": "ann-d33f928a-aa49-4762-a726-fdcea78f6655",
