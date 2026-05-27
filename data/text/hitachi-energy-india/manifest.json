@@ -1,6 +1,6 @@
 {
   "slug": "hitachi-energy-india",
-  "updatedAt": "2026-05-27T05:10:07.728Z",
+  "updatedAt": "2026-05-27T16:58:21.366Z",
   "documents": [
     {
       "id": "ar-2025",
@@ -101,10 +101,8 @@
         "https://www.bseindia.com/xml-data/corpfiling/AttachHis/80c6ec8e-1e50-46fe-8d20-f53aae7ab805.pdf"
       ],
       "textFile": "ann-48e77d73-7ab6-46f2-a370-b138405ac344.txt",
-      "status": "ok",
-      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/80c6ec8e-1e50-46fe-8d20-f53aae7ab805.pdf",
-      "pdfBytes": 416956,
-      "textChars": 1382
+      "status": "cached",
+      "textChars": 1386
     },
     {
       "id": "ann-6e1a21ef-96d7-4f45-804a-1415570a0fd3",

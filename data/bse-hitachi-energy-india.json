@@ -1,7 +1,7 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-05-27T05:10:05.369Z",
+  "scrapedAt": "2026-05-27T16:57:48.980Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
     "from": "20260226",
@@ -606,11 +606,11 @@
       ]
     },
     "corpActions": {
-      "ok": true,
+      "ok": false,
       "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260226&TDate=20260527&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 0,
       "tag": "confirmed",
-      "error": null,
+      "error": "non-JSON response (HTML / <!DOCTYPE>) — wrong endpoint path",
       "rows": []
     },
     "boardMeetings": {
