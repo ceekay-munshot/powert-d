@@ -1,19 +1,19 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-06-14T15:42:59.905Z",
+  "scrapedAt": "2026-06-15T06:15:15.539Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
-    "from": "20260316",
-    "to": "20260614"
+    "from": "20260317",
+    "to": "20260615"
   },
   "categories": {
     "announcements": {
-      "ok": false,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260316&strScrip=543187&strSearch=P&strToDate=20260614&strType=C",
+      "ok": true,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260317&strScrip=543187&strSearch=P&strToDate=20260615&strType=C",
       "count": 21,
       "tag": "confirmed",
-      "error": "HTTP 504",
+      "error": null,
       "rows": [
         {
           "NEWSID": "48e77d73-7ab6-46f2-a370-b138405ac344",
@@ -603,23 +603,22 @@
           "Fld_Attachsize": 131207,
           "PDF_URL": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf"
         }
-      ],
-      "stale": true
+      ]
     },
     "corpActions": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260316&TDate=20260614&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260317&TDate=20260615&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 0,
       "tag": "confirmed",
       "error": null,
       "rows": []
     },
     "boardMeetings": {
-      "ok": false,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260316&todate=20260614&scripcode=543187",
+      "ok": true,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260317&todate=20260615&scripcode=543187",
       "count": 0,
       "tag": "confirmed",
-      "error": "HTTP 504",
+      "error": null,
       "rows": []
     },
     "annualReports": {
@@ -662,11 +661,11 @@
       ]
     },
     "results": {
-      "ok": false,
+      "ok": true,
       "url": null,
       "count": 1,
       "tag": "derived",
-      "error": "HTTP 504",
+      "error": null,
       "rows": [
         {
           "NEWSID": "e614f470-e139-4d36-bf00-15b880fb840d",
@@ -696,8 +695,7 @@
           "Fld_Attachsize": 5535856,
           "PDF_URL": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5585ffbb-ce71-40a2-abf5-ca9f46572e7e.pdf"
         }
-      ],
-      "stale": true
+      ]
     }
   }
 }
