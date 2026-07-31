@@ -1,7 +1,24 @@
 {
   "slug": "hitachi-energy-india",
-  "updatedAt": "2026-07-31T04:16:38.830Z",
+  "updatedAt": "2026-07-31T15:54:38.044Z",
   "documents": [
+    {
+      "id": "ar-2026",
+      "type": "annual-report",
+      "title": "Annual Report 2026",
+      "date": "2026-07-31T14:18:18.08",
+      "category": null,
+      "urlConfidence": "constructed",
+      "candidateUrls": [
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec6df9db-e4ba-445b-8043-5b5914dab8be.pdf",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ec6df9db-e4ba-445b-8043-5b5914dab8be.pdf"
+      ],
+      "textFile": "ar-2026.txt",
+      "status": "ok",
+      "resolvedUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec6df9db-e4ba-445b-8043-5b5914dab8be.pdf",
+      "pdfBytes": 8152819,
+      "textChars": 911323
+    },
     {
       "id": "ar-2025",
       "type": "annual-report",
@@ -74,20 +91,6 @@
       "textFile": "ar-2020.txt",
       "status": "cached",
       "textChars": 600474
-    },
-    {
-      "id": "ar-2019",
-      "type": "annual-report",
-      "title": "Annual Report 2019",
-      "date": "2020-07-22T11:41:18",
-      "category": null,
-      "urlConfidence": "constructed",
-      "candidateUrls": [
-        "https://www.bseindia.com/bseplus/AnnualReport/543187/5431871219.pdf"
-      ],
-      "textFile": "ar-2019.txt",
-      "status": "cached",
-      "textChars": 441537
     },
     {
       "id": "ann-48e77d73-7ab6-46f2-a370-b138405ac344",

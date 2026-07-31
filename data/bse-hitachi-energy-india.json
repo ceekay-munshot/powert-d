@@ -1,7 +1,7 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-07-31T04:16:36.160Z",
+  "scrapedAt": "2026-07-31T15:54:36.291Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
     "from": "20260502",
@@ -624,10 +624,15 @@
     "annualReports": {
       "ok": true,
       "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnualReport/w?scripcode=543187",
-      "count": 6,
+      "count": 7,
       "tag": "confirmed",
       "error": null,
       "rows": [
+        {
+          "year": "2026",
+          "file_name": "ec6df9db-e4ba-445b-8043-5b5914dab8be.pdf.pdf",
+          "dt_tm": "2026-07-31T14:18:18.08"
+        },
         {
           "year": "2025",
           "file_name": "7ef51a63-cdf9-413c-81fa-aeced48d58b8.pdf.pdf",
