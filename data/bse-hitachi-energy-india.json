@@ -1,16 +1,16 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-08-07T14:44:52.274Z",
+  "scrapedAt": "2026-08-08T02:50:24.579Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
-    "from": "20260509",
-    "to": "20260807"
+    "from": "20260510",
+    "to": "20260808"
   },
   "categories": {
     "announcements": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260509&strScrip=543187&strSearch=P&strToDate=20260807&strType=C",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260510&strScrip=543187&strSearch=P&strToDate=20260808&strType=C",
       "count": 21,
       "tag": "confirmed",
       "error": null,
@@ -607,7 +607,7 @@
     },
     "corpActions": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260509&TDate=20260807&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260510&TDate=20260808&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 0,
       "tag": "confirmed",
       "error": null,
@@ -615,19 +615,11 @@
     },
     "boardMeetings": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260509&todate=20260807&scripcode=543187",
-      "count": 1,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260510&todate=20260808&scripcode=543187",
+      "count": 0,
       "tag": "confirmed",
       "error": null,
-      "rows": [
-        {
-          "scrip_Code": "543187",
-          "short_name": "POWERINDIA",
-          "Long_Name": "Hitachi Energy India Ltd",
-          "meeting_date": "07 Aug 2026",
-          "URL": "https://www.bseindia.com/stock-share-price/hitachi-energy-india-ltd/powerindia/543187/"
-        }
-      ]
+      "rows": []
     },
     "annualReports": {
       "ok": true,
