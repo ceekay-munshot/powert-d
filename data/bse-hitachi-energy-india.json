@@ -1,16 +1,16 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-08-20T14:25:32.270Z",
+  "scrapedAt": "2026-08-21T02:17:43.713Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
-    "from": "20260522",
-    "to": "20260820"
+    "from": "20260523",
+    "to": "20260821"
   },
   "categories": {
     "announcements": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260522&strScrip=543187&strSearch=P&strToDate=20260820&strType=C",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260523&strScrip=543187&strSearch=P&strToDate=20260821&strType=C",
       "count": 21,
       "tag": "confirmed",
       "error": null,
@@ -607,15 +607,30 @@
     },
     "corpActions": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260522&TDate=20260820&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
-      "count": 0,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260523&TDate=20260821&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
+      "count": 1,
       "tag": "confirmed",
       "error": null,
-      "rows": []
+      "rows": [
+        {
+          "scrip_code": 543187,
+          "short_name": "POWERINDIA",
+          "Ex_date": "21 Aug 2026",
+          "Purpose": "Final Dividend - Rs. - 8.0000",
+          "RD_Date": "21 Aug 2026",
+          "BCRD_FROM": "",
+          "BCRD_TO": "",
+          "ND_START_DATE": "21 Aug 2026",
+          "ND_END_DATE": "21 Aug 2026",
+          "payment_date": "",
+          "exdate": "20260821",
+          "long_name": "Hitachi Energy India Ltd"
+        }
+      ]
     },
     "boardMeetings": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260522&todate=20260820&scripcode=543187",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260523&todate=20260821&scripcode=543187",
       "count": 0,
       "tag": "confirmed",
       "error": null,
