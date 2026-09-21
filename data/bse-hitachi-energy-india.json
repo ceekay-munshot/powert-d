@@ -1,16 +1,16 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-09-20T17:08:33.830Z",
+  "scrapedAt": "2026-09-21T05:40:10.850Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
-    "from": "20260622",
-    "to": "20260920"
+    "from": "20260623",
+    "to": "20260921"
   },
   "categories": {
     "announcements": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260622&strScrip=543187&strSearch=P&strToDate=20260920&strType=C",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260623&strScrip=543187&strSearch=P&strToDate=20260921&strType=C",
       "count": 21,
       "tag": "confirmed",
       "error": null,
@@ -607,7 +607,7 @@
     },
     "corpActions": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260622&TDate=20260920&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260623&TDate=20260921&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 1,
       "tag": "confirmed",
       "error": null,
@@ -630,7 +630,7 @@
     },
     "boardMeetings": {
       "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260622&todate=20260920&scripcode=543187",
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260623&todate=20260921&scripcode=543187",
       "count": 0,
       "tag": "confirmed",
       "error": null,
