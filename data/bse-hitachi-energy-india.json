@@ -1,7 +1,7 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-09-22T05:37:25.392Z",
+  "scrapedAt": "2026-09-22T17:49:36.114Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
     "from": "20260624",
@@ -606,11 +606,11 @@
       ]
     },
     "corpActions": {
-      "ok": true,
+      "ok": false,
       "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260624&TDate=20260922&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 1,
       "tag": "confirmed",
-      "error": null,
+      "error": "HTTP 504",
       "rows": [
         {
           "scrip_code": 543187,
@@ -626,7 +626,8 @@
           "exdate": "20260821",
           "long_name": "Hitachi Energy India Ltd"
         }
-      ]
+      ],
+      "stale": true
     },
     "boardMeetings": {
       "ok": true,
