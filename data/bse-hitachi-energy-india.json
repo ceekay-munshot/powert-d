@@ -1,19 +1,19 @@
 {
   "scripCode": "543187",
   "slug": "hitachi-energy-india",
-  "scrapedAt": "2026-09-25T18:08:38.192Z",
+  "scrapedAt": "2026-09-26T05:42:08.661Z",
   "firstScrapedAt": "2026-05-21T07:29:50.145Z",
   "window": {
-    "from": "20260627",
-    "to": "20260925"
+    "from": "20260628",
+    "to": "20260926"
   },
   "categories": {
     "announcements": {
-      "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260627&strScrip=543187&strSearch=P&strToDate=20260925&strType=C",
+      "ok": false,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260628&strScrip=543187&strSearch=P&strToDate=20260926&strType=C",
       "count": 21,
       "tag": "confirmed",
-      "error": null,
+      "error": "HTTP 403",
       "rows": [
         {
           "NEWSID": "48e77d73-7ab6-46f2-a370-b138405ac344",
@@ -603,14 +603,15 @@
           "Fld_Attachsize": 131207,
           "PDF_URL": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2dc23ac-6068-49a6-87f6-f058d1cfc37f.pdf"
         }
-      ]
+      ],
+      "stale": true
     },
     "corpActions": {
-      "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260627&TDate=20260925&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
+      "ok": false,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/DefaultData/w?Fdate=20260628&TDate=20260926&Purposecode=&ddlcategorys=E&ddlindustrys=&scripcode=543187&segment=0&strSearch=S",
       "count": 1,
       "tag": "confirmed",
-      "error": null,
+      "error": "HTTP 403",
       "rows": [
         {
           "scrip_code": 543187,
@@ -626,22 +627,23 @@
           "exdate": "20260821",
           "long_name": "Hitachi Energy India Ltd"
         }
-      ]
+      ],
+      "stale": true
     },
     "boardMeetings": {
-      "ok": true,
-      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260627&todate=20260925&scripcode=543187",
+      "ok": false,
+      "url": "https://api.bseindia.com/BseIndiaAPI/api/Corpforthresults/w?fromdate=20260628&todate=20260926&scripcode=543187",
       "count": 0,
       "tag": "confirmed",
-      "error": null,
+      "error": "HTTP 403",
       "rows": []
     },
     "annualReports": {
-      "ok": true,
+      "ok": false,
       "url": "https://api.bseindia.com/BseIndiaAPI/api/AnnualReport/w?scripcode=543187",
       "count": 7,
       "tag": "confirmed",
-      "error": null,
+      "error": "HTTP 403",
       "rows": [
         {
           "year": "2026",
@@ -678,14 +680,15 @@
           "file_name": "5431871219.pdf",
           "dt_tm": "2020-07-22T11:41:18"
         }
-      ]
+      ],
+      "stale": true
     },
     "results": {
-      "ok": true,
+      "ok": false,
       "url": null,
       "count": 1,
       "tag": "derived",
-      "error": null,
+      "error": "HTTP 403",
       "rows": [
         {
           "NEWSID": "e614f470-e139-4d36-bf00-15b880fb840d",
@@ -715,7 +718,8 @@
           "Fld_Attachsize": 5535856,
           "PDF_URL": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5585ffbb-ce71-40a2-abf5-ca9f46572e7e.pdf"
         }
-      ]
+      ],
+      "stale": true
     }
   }
 }
